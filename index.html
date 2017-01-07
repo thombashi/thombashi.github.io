@@ -1,10 +1,12 @@
 <!doctype html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>thombashi.github.io</title>
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/components/header.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/components/icon.min.css">
     <link rel="stylesheet" href="css/toc.css">
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -16,15 +18,15 @@
     
 </head>
 <body>
+        <div id="toc"></div>
+        
         <h1 class="ui header">
             GitHub
         </h1>
-        
-        <div id="toc"></div>
-        
         <div class="github-card" data-width="400" data-github="thombashi" data-height="120" data-theme="medium"></div>
         <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-
+        
+        
         <h1 class="ui dividing header">
             CLI Tools
         </h1>
@@ -39,14 +41,23 @@
         <div class="github-card" data-github="thombashi/DateTimeRange" data-width="600" data-theme="medium"></div>
         <div class="github-card" data-github="thombashi/mbstrdecoder" data-width="600" data-theme="medium"></div>
         <div class="github-card" data-github="thombashi/pytablewriter" data-width="600" data-theme="medium"></div>
-        <div class="github-card" data-github="thombashi/pingparsing" data-width="600" data-theme="medium"></div>
         <div class="github-card" data-github="thombashi/pathvalidate" data-width="600" data-theme="medium"></div>
+        <div class="github-card" data-github="thombashi/pingparsing" data-width="600" data-theme="medium"></div>
         <div class="github-card" data-github="thombashi/pytablereader" data-width="600" data-theme="medium"></div>
         <div class="github-card" data-github="thombashi/SimpleSQLite" data-width="600" data-theme="medium"></div>
         <div class="github-card" data-github="thombashi/sqliteschema" data-width="600" data-theme="medium"></div>
         <div class="github-card" data-github="thombashi/subprocrunner" data-width="600" data-theme="medium"></div>
         
         <script src="https://cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+        
+        
+        <h1 class="ui dividing header">
+            Links
+        </h1>
+        <div class="ui list">
+            <a class="item" href=https://www.openhub.net/accounts/thombashi>openhub</a>
+            <a class="item" href=https://twitter.com/thombashi>twitter</a>
+        </div>
         
         <script>
             $('#toc').toc();

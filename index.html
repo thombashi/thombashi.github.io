@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>thombashi.github.io</title>
-    
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/components/header.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/components/icon.min.css">
     <link rel="stylesheet" href="css/toc.css">
-    
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.js"></script>
     <script src="js/toc.min.js"></script>
@@ -25,29 +25,29 @@
                 '</h2>',
             ];
 
-            for (const line of badge_tag_lines) {
+            for (let line of badge_tag_lines) {
                 console.log(line);
                 document.write(line + "\n");
             }
-            
+
             const github_card_tag = '<div class="github-card" data-github="thombashi/' + name + '" data-width="600" data-theme="medium"></div>';
             console.log(github_card_tag);
             document.write(github_card_tag);
-            
         }
     </script>
-    
+
 </head>
 <body>
     <div id="toc"></div>
-    
+
     <h1 class="ui block header">
         GitHub
     </h1>
-    <div class="github-card" data-width="400" data-github="thombashi" data-height="120" data-theme="medium"></div>
+    <div class="github-card" data-width="400" data-github="thombashi" data-height="120" data-theme="medium">
+    </div>
     <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-    
-    
+
+
     <h1 class="ui block header">
         CLI Tools
     </h1>
@@ -55,8 +55,8 @@
         write_python_package("sqlitebiter")
         write_python_package("tcconfig")
     </script>
-    
-    
+
+
     <h1 class="ui block header">
         Python Libraries
     </h1>
@@ -72,10 +72,10 @@
         write_python_package("sqliteschema")
         write_python_package("subprocrunner")
     </script>
-    
+
     <script src="https://cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-    
-    
+
+
     <h1 class="ui block header">
         Links
     </h1>
@@ -84,15 +84,15 @@
         <a class="item" href=https://twitter.com/thombashi>twitter</a>
         <a class="item" href=http://qiita.com/vmmhypervisor>Qiita</a>
     </div>
-    
+
     <script>
         $('#toc').toc();
     </script>
-    
+
     <footer>
         Tsuyoshi Hombashi (gogogo.vm@gmail.com)
     </footer>
-    
+
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

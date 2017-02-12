@@ -1,65 +1,93 @@
 <!doctype html>
 <html>
 <head>
-    <meta charset="UTF-8">
+    <meta charset='UTF-8'>
     <title>thombashi.github.io</title>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/components/header.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/components/icon.min.css">
-    <link rel="stylesheet" href="css/toc.css">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.css'>
+    <link rel='stylesheet' href='css/toc.css'>
+    <link rel='stylesheet' href='https://afeld.github.io/emoji-css/emoji.css'>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.js"></script>
-    <script src="js/toc.min.js"></script>
-    <script src="js/write_package.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.7/semantic.min.js'></script>
+    <script src='js/toc.min.js'></script>
+    <script src='js/write_items.js'></script>
+
+    <style type='text/css'>
+        .ui.card {
+            width: 480px;
+        }
+    </style>
 </head>
 <body>
-    <div id="toc"></div>
+    <div id='toc'></div>
 
-    <h1 class="ui block header">
+    <h1 class='ui block header'>
         GitHub
     </h1>
-    <div class="github-card" data-width="400" data-github="thombashi" data-height="120" data-theme="medium">
-    </div>
-    <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+    <div class='ghcard' src='data/thombashi.json' emoji='resolve'></div>
 
-
-    <h1 class="ui block header">
+    <h1 class='ui block header'>
         CLI Tools
     </h1>
-    <script>
-        write_python_package("sqlitebiter")
-        write_python_package("tcconfig")
-    </script>
+    <div class='ui relaxed items'>
+        <script>
+            var cardNameArray = [
+                'thombashi_sqlitebiter',
+                'thombashi_tcconfig',
+            ];
 
+            writeCardItems(cardNameArray);
+        </script>
+    </div>
 
-    <h1 class="ui block header">
+    <h1 class='ui block header'>
         Python Libraries
     </h1>
-    <script>
-        write_python_package("DataProperty")
-        write_python_package("DateTimeRange")
-        write_python_package("mbstrdecoder")
-        write_python_package("pathvalidate")
-        write_python_package("pytablewriter")
-        write_python_package("pingparsing")
-        write_python_package("pytablereader")
-        write_python_package("SimpleSQLite")
-        write_python_package("sqliteschema")
-        write_python_package("subprocrunner")
-    </script>
+    <div class='ui relaxed items'>
+        <script>
+            var cardNameArray = [
+                'thombashi_DataProperty',
+                'thombashi_DateTimeRange',
+                'thombashi_mbstrdecoder',
+                'thombashi_pathvalidate',
+                'thombashi_pytablewriter',
+                'thombashi_pingparsing',
+                'thombashi_pytablereader',
+                'thombashi_pytypeutil',
+                'thombashi_SimpleSQLite',
+                'thombashi_sqliteschema',
+                'thombashi_subprocrunner',
+            ];
 
-    <script src="https://cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+            writeCardItems(cardNameArray);
+        </script>
+    </div>
 
+    <h1 class='ui block header'>
+        Forks
+    </h1>
+    <div class='ui relaxed items'>
+        <script>
+            var cardNameArray = [
+                'thombashi_allpairspy',
+                'thombashi_NFStest',
+                'thombashi_Connectathon_README',
+            ];
 
-    <h1 class="ui block header">
+            writeCardItems(cardNameArray);
+        </script>
+    </div>
+
+    <script src='js/ghstaticcard.min.js' charset='utf-8'></script>
+
+    <h1 class='ui block header'>
         Links
     </h1>
-    <div class="ui list">
-        <a class="item" href=https://www.openhub.net/accounts/thombashi>openhub</a>
-        <a class="item" href=https://twitter.com/thombashi>twitter</a>
-        <a class="item" href=http://qiita.com/vmmhypervisor>Qiita</a>
+    <div class='ui list'>
+        <a class='item' href=https://www.openhub.net/accounts/thombashi>openhub</a>
+        <a class='item' href=https://twitter.com/thombashi>twitter</a>
+        <a class='item' href=http://qiita.com/vmmhypervisor>Qiita</a>
     </div>
 
     <script>

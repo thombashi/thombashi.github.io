@@ -1,0 +1,17 @@
+{
+    "owner_name": "Tsuyoshi Hombashi", 
+    "name": "pathvalidate", 
+    "language": "Python", 
+    "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=3", 
+    "repo_homepage": "http://pathvalidate.rtfd.io/", 
+    "forks_count": 3, 
+    "html_url": "https://github.com/thombashi/pathvalidate", 
+    "updated_at": "2017-02-12T06:57:10", 
+    "card_type": "repository", 
+    "latest_tag": "v0.14.0", 
+    "version": "0.0.1", 
+    "owner_html_url": "https://github.com/thombashi", 
+    "id": "thombashi/pathvalidate", 
+    "stargazers_count": 3, 
+    "repo_description": "A python library to validate/sanitize a string such as filenames/variable-names/excel-sheet-names."
+}

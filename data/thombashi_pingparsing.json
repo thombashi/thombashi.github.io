@@ -1,0 +1,17 @@
+{
+    "owner_name": "Tsuyoshi Hombashi", 
+    "name": "pingparsing", 
+    "language": "Python", 
+    "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=3", 
+    "repo_homepage": "http://pingparsing.rtfd.io/", 
+    "forks_count": 0, 
+    "html_url": "https://github.com/thombashi/pingparsing", 
+    "updated_at": "2016-12-31T16:28:52", 
+    "card_type": "repository", 
+    "latest_tag": "v0.4.0", 
+    "version": "0.0.1", 
+    "owner_html_url": "https://github.com/thombashi", 
+    "id": "thombashi/pingparsing", 
+    "stargazers_count": 5, 
+    "repo_description": ":arrow_right_hook: Python library of parsing ping command output"
+}

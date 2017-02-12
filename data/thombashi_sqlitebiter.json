@@ -1,0 +1,17 @@
+{
+    "owner_name": "Tsuyoshi Hombashi", 
+    "name": "sqlitebiter", 
+    "language": "Python", 
+    "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=3", 
+    "repo_homepage": "http://sqlitebiter.rtfd.io/", 
+    "forks_count": 14, 
+    "html_url": "https://github.com/thombashi/sqlitebiter", 
+    "updated_at": "2017-02-09T17:29:11", 
+    "card_type": "repository", 
+    "latest_tag": "v0.6.1", 
+    "version": "0.0.1", 
+    "owner_html_url": "https://github.com/thombashi", 
+    "id": "thombashi/sqlitebiter", 
+    "stargazers_count": 213, 
+    "repo_description": "CLI tool to convert CSV/Excel/HTML/JSON/LTSV/Markdown/TSV/Google-Sheets to a SQLite database file."
+}

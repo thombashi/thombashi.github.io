@@ -1,0 +1,17 @@
+{
+    "owner_name": "Tsuyoshi Hombashi", 
+    "name": "pytypeutil", 
+    "language": "Python", 
+    "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=3", 
+    "repo_homepage": "http://pytypeutil.rtfd.io/", 
+    "forks_count": 0, 
+    "html_url": "https://github.com/thombashi/pytypeutil", 
+    "updated_at": "2017-02-11T06:28:24", 
+    "card_type": "repository", 
+    "latest_tag": "v0.0.1", 
+    "version": "0.0.1", 
+    "owner_html_url": "https://github.com/thombashi", 
+    "id": "thombashi/pytypeutil", 
+    "stargazers_count": 0, 
+    "repo_description": "A python library for variable type checker/validator/converter at run time."
+}

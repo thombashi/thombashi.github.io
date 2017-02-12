@@ -1,0 +1,17 @@
+{
+    "owner_name": "Tsuyoshi Hombashi", 
+    "name": "tcconfig", 
+    "language": "Python", 
+    "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=3", 
+    "repo_homepage": "http://tcconfig.rtfd.io/", 
+    "forks_count": 12, 
+    "html_url": "https://github.com/thombashi/tcconfig", 
+    "updated_at": "2017-01-23T18:51:16", 
+    "card_type": "repository", 
+    "latest_tag": "v0.7.0", 
+    "version": "0.0.1", 
+    "owner_html_url": "https://github.com/thombashi", 
+    "id": "thombashi/tcconfig", 
+    "stargazers_count": 159, 
+    "repo_description": "A simple tc command wrapper tool. Easy to setup traffic control of network bandwidth/latency/packet-loss/packet-corruption to network interfaces."
+}

@@ -1,0 +1,17 @@
+{
+    "owner_name": "Tsuyoshi Hombashi", 
+    "name": "DataProperty", 
+    "language": "Python", 
+    "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=3", 
+    "repo_homepage": "https://pypi.python.org/pypi/DataProperty", 
+    "forks_count": 3, 
+    "html_url": "https://github.com/thombashi/DataProperty", 
+    "updated_at": "2016-12-24T23:41:28", 
+    "card_type": "repository", 
+    "latest_tag": "v0.16.2", 
+    "version": "0.0.1", 
+    "owner_html_url": "https://github.com/thombashi", 
+    "id": "thombashi/DataProperty", 
+    "stargazers_count": 7, 
+    "repo_description": "A python library for extract properties from data."
+}

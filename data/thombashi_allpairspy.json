@@ -1,0 +1,17 @@
+{
+    "owner_name": "Tsuyoshi Hombashi", 
+    "name": "allpairspy", 
+    "language": "Python", 
+    "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=3", 
+    "repo_homepage": null, 
+    "forks_count": 0, 
+    "html_url": "https://github.com/thombashi/allpairspy", 
+    "updated_at": "2017-01-21T06:47:15", 
+    "card_type": "repository", 
+    "latest_tag": "v0.2.1", 
+    "version": "0.0.1", 
+    "owner_html_url": "https://github.com/thombashi", 
+    "id": "thombashi/allpairspy", 
+    "stargazers_count": 0, 
+    "repo_description": "A python library for test combinations generator. The generator allows one to create a set of tests using \"pairwise combinations\" method, reducing a number of combinations of variables into a lesser set that covers most situations."
+}

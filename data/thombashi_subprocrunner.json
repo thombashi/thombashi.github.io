@@ -1,0 +1,17 @@
+{
+    "owner_name": "Tsuyoshi Hombashi", 
+    "name": "subprocrunner", 
+    "language": "Python", 
+    "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=3", 
+    "repo_homepage": "https://pypi.python.org/pypi/subprocrunner", 
+    "forks_count": 0, 
+    "html_url": "https://github.com/thombashi/subprocrunner", 
+    "updated_at": "2016-11-12T14:22:31", 
+    "card_type": "repository", 
+    "latest_tag": "v0.4.7", 
+    "version": "0.0.1", 
+    "owner_html_url": "https://github.com/thombashi", 
+    "id": "thombashi/subprocrunner", 
+    "stargazers_count": 0, 
+    "repo_description": "A python library of subprocess module wrapper."
+}

@@ -1,0 +1,17 @@
+{
+    "owner_name": "Tsuyoshi Hombashi", 
+    "name": "SimpleSQLite", 
+    "language": "Python", 
+    "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=3", 
+    "repo_homepage": "http://simplesqlite.rtfd.io/", 
+    "forks_count": 5, 
+    "html_url": "https://github.com/thombashi/SimpleSQLite", 
+    "updated_at": "2017-01-14T15:53:46", 
+    "card_type": "repository", 
+    "latest_tag": "v0.7.5", 
+    "version": "0.0.1", 
+    "owner_html_url": "https://github.com/thombashi", 
+    "id": "thombashi/SimpleSQLite", 
+    "stargazers_count": 53, 
+    "repo_description": "A python library to simplify the table creation and data insertion into SQLite database (Automatic table creation from data. Support various data types for insertion: dictionary/namedtuple/list/tuple. Convert from other formats: CSV/JSON/Google-Sheets/TableData)"
+}

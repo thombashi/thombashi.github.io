@@ -1,0 +1,17 @@
+{
+    "owner_name": "Tsuyoshi Hombashi", 
+    "name": "mbstrdecoder", 
+    "language": "Python", 
+    "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=3", 
+    "repo_homepage": null, 
+    "forks_count": 0, 
+    "html_url": "https://github.com/thombashi/mbstrdecoder", 
+    "updated_at": "2016-12-10T05:14:35", 
+    "card_type": "repository", 
+    "latest_tag": "v0.2.1", 
+    "version": "0.0.1", 
+    "owner_html_url": "https://github.com/thombashi", 
+    "id": "thombashi/mbstrdecoder", 
+    "stargazers_count": 0, 
+    "repo_description": "Python library for multi-byte character string decoder."
+}

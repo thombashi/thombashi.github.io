@@ -1,0 +1,17 @@
+{
+    "owner_name": "Tsuyoshi Hombashi", 
+    "name": "pytablewriter", 
+    "language": "Python", 
+    "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=3", 
+    "repo_homepage": "http://pytablewriter.rtfd.io/", 
+    "forks_count": 6, 
+    "html_url": "https://github.com/thombashi/pytablewriter", 
+    "updated_at": "2017-02-05T06:17:38", 
+    "card_type": "repository", 
+    "latest_tag": "v0.17.1", 
+    "version": "0.0.1", 
+    "owner_html_url": "https://github.com/thombashi", 
+    "id": "thombashi/pytablewriter", 
+    "stargazers_count": 82, 
+    "repo_description": "A python library to write a table in various formats: CSV / HTML / JavaScript / JSON / LTSV / Markdown / MediaWiki / Excel / Pandas / Python / reStructuredText / TOML / TSV."
+}

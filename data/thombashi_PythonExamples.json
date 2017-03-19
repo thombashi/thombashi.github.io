@@ -13,10 +13,17 @@
     }, 
     "tags_count": 0, 
     "languages": {
-        "Python": 662, 
-        "Jupyter Notebook": 13760
+        "labels": [
+            "Jupyter Notebook", 
+            "Python"
+        ], 
+        "data": [
+            13760, 
+            662
+        ]
     }, 
-    "version": "0.0.1", 
+    "data_version": "0.0.1", 
+    "pulls_count": 0, 
     "stargazers_count": 1, 
     "participation": [
         0, 
@@ -25,8 +32,8 @@
         0, 
         0, 
         0, 
-        0, 
         1, 
+        0, 
         0, 
         1, 
         0, 
@@ -76,18 +83,22 @@
     "repo_homepage": null, 
     "subscribers_count": 1, 
     "html_url": "https://github.com/thombashi/PythonExamples", 
+    "languages_count": 2, 
     "language": "Jupyter Notebook", 
+    "commits_last_year": 9, 
     "contributors_count": 1, 
-    "fetched_at": "2017-03-14T00:40:09", 
+    "fetched_at": "2017-03-20T01:03:39", 
     "has_issues": true, 
     "repo_description": ":notebook_with_decorative_cover: Learning Python libraries by examples.", 
     "open_issues_count": 0, 
     "name": "PythonExamples", 
     "branches_count": 1, 
-    "pulls_count": 0, 
     "created_at": "2016-03-27T10:54:34", 
     "card_type": "repository", 
     "avatar_url": "https://avatars3.githubusercontent.com/u/15517661?v=3", 
-    "open_issues": {}, 
+    "open_issues": {
+        "labels": [], 
+        "data": []
+    }, 
     "organization": {}
 }

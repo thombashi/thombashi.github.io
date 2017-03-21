@@ -1,0 +1,154 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>ghscard demo</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.min.css">
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.0/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.min.js'></script>
+</head>
+<body>
+    <h1 class="ui dividing header">
+        <i class="github square icon"></i>
+        <div class="content">
+            Popular Repositories on GitHub
+        </div>
+    </h1>
+
+    <div class="ui basic segment">
+        <div class="ui top attached tabular menu">
+            <a class="item active" data-tab="first">1 - 5</a>
+            <a class="item" data-tab="second">6 - 10</a>
+            <a class="item" data-tab="third">11 - 15</a>
+            <a class="item" data-tab="fourth">16 - 20</a>
+        </div>
+        <div class="ui bottom attached tab segment active" data-tab="first">
+            <div class="ui items">
+                <div class="item">
+                    <div class="ghscard" src="data/freeCodeCamp_freeCodeCamp.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/twbs_bootstrap.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/vhf_free-programming-books.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/facebook_react.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/d3_d3.json"></div>
+                </div>
+            </div>
+        </div>
+        <div class="ui bottom attached tab segment" data-tab="second">
+            <div class="ui items">
+                <div class="item">
+                    <div class="ghscard" src="data/angular_angular.js.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/sindresorhus_awesome.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/getify_You-Dont-Know-JS.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/tensorflow_tensorflow.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/robbyrussell_oh-my-zsh.json"></div>
+                </div>
+            </div>
+        </div>
+        <div class="ui bottom attached tab segment" data-tab="third">
+            <div class="ui items">
+                <div class="item">
+                    <div class="ghscard" src="data/airbnb_javascript.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/FortAwesome_Font-Awesome.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/github_gitignore.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/vuejs_vue.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/facebook_react-native.json"></div>
+                </div>
+            </div>
+        </div>
+        <div class="ui bottom attached tab segment" data-tab="fourth">
+            <div class="ui items">
+                <div class="item">
+                    <div class="ghscard" src="data/jquery_jquery.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/electron_electron.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/torvalds_linux.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/docker_docker.json"></div>
+                </div>
+                <div class="item">
+                    <div class="ghscard" src="data/daneden_animate.css.json"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/ghscard.js"></script>
+
+    
+    <script>
+        $('.menu .item').tab();
+    </script>
+    
+    <!--
+    <script src="https://rawgit.com/thombashi/ghscard/master/dist/ghscard.min.js"></script>
+    <script src="https://cdn.rawgit.com/thombashi/ghscard/10ee04f6/dist/ghscard.min.js"></script>
+
+    <div class="ui basic segment">
+        <div class="ui relaxed items">
+            <div class="item">
+                <div class="ghscard" src="data/freeCodeCamp_freeCodeCamp.json"></div>
+            </div>
+            <div class="item">
+                <div class="ghscard" src="data/twbs_bootstrap.json"></div>
+            </div>
+            <div class="item">
+                <div class="ghscard" src="data/vhf_free-programming-books.json"></div>
+            </div>
+            <div class="item">
+                <div class="ghscard" src="data/facebook_react.json"></div>
+            </div>
+            <div class="item">
+                <div class="ghscard" src="data/d3_d3.json"></div>
+            </div>
+            <div class="item">
+                <div class="ghscard" src="data/angular_angular.js.json"></div>
+            </div>
+            <div class="item">
+                <div class="ghscard" src="data/sindresorhus_awesome.json"></div>
+            </div>
+            <div class="item">
+                <div class="ghscard" src="data/getify_You-Dont-Know-JS.json"></div>
+            </div>
+            <div class="item">
+                <div class="ghscard" src="data/tensorflow_tensorflow.json"></div>
+            </div>
+            <div class="item">
+                <div class="ghscard" src="data/robbyrussell_oh-my-zsh.json"></div>
+            </div>
+        </div>
+    </div>
+
+    -->
+</body>
+</html>

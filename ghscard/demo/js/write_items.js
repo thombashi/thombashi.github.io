@@ -18,9 +18,10 @@ function writeCardItems(cardNamePairArray) {
         */
 
         var tags = [
-            "<div class='item'>",
-                "<div class='ghscard' src='" + cardNamePair[0] + "'></div>",
-            "</div>",
+            "<h1 class='ui dividing header'>",
+            "#" + String(i + 1),
+            "</h1>",
+            "<div class='ghscard' src='" + cardNamePair[0] + "'></div>",
         ].join("\n");
 
         document.write(tags);

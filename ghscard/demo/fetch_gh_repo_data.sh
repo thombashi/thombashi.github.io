@@ -2,7 +2,7 @@
 
 
 output_dir="data"
-base_command="ghscard gen"
+base_command="ghscard --debug gen"
 targets=(
     "freeCodeCamp/freeCodeCamp"
     "twbs/bootstrap"

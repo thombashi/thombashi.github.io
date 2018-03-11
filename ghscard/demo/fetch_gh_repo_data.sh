@@ -23,7 +23,7 @@ targets=(
     "electron/electron"
     "torvalds/linux"
     "docker/docker"
-    "daneden/animate.css"    
+    "daneden/animate.css"
 )
 
 command="${base_command} -o ${output_dir} ${targets[@]}"

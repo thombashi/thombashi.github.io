@@ -26,7 +26,7 @@ targets=(
 
     "thombashi/allpairspy"
     "thombashi/NFStest"
-    
+
     "thombashi/PythonExamples"
 )
 

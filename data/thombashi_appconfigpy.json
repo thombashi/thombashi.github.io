@@ -1,6 +1,6 @@
 {
     "id": "thombashi/appconfigpy",
-    "fetched_at": "2018-09-30T10:04:33",
+    "fetched_at": "2018-10-09T07:44:29",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/appconfigpy",
     "name": "appconfigpy",
-    "updated_at": "2018-09-16T13:06:48",
+    "updated_at": "2018-10-08T08:10:31",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -20,7 +20,7 @@
             "Python"
         ],
         "data": [
-            9858
+            9915
         ]
     },
     "languages_count": 1,
@@ -36,7 +36,6 @@
         "python-library"
     ],
     "participation": [
-        0,
         0,
         0,
         0,
@@ -65,7 +64,6 @@
         2,
         0,
         1,
-        0,
         17,
         0,
         0,
@@ -80,17 +78,19 @@
         0,
         0,
         0,
-        5,
         0,
+        5,
         4,
+        0,
         0,
         0,
         2,
         0,
-        0
+        0,
+        5
     ],
-    "commits_last_year": 41,
-    "latest_tag": "v0.0.6",
+    "commits_last_year": 46,
+    "latest_tag": "v0.0.7",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -102,7 +102,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 6,
+    "tags_count": 7,
     "open_issues": {
         "labels": [],
         "data": []

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/subprocrunner",
-    "fetched_at": "2018-09-30T10:05:44",
+    "fetched_at": "2018-10-09T07:45:22",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/subprocrunner",
     "name": "subprocrunner",
-    "updated_at": "2018-09-16T13:01:10",
+    "updated_at": "2018-10-08T08:52:53",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -21,7 +21,7 @@
             "Shell"
         ],
         "data": [
-            25421,
+            25425,
             593
         ]
     },
@@ -38,8 +38,6 @@
         "wrapper-library"
     ],
     "participation": [
-        0,
-        0,
         0,
         0,
         0,
@@ -60,6 +58,7 @@
         0,
         0,
         0,
+        0,
         11,
         0,
         0,
@@ -67,10 +66,10 @@
         3,
         0,
         0,
-        0,
         24,
         0,
         11,
+        0,
         1,
         0,
         0,
@@ -85,14 +84,15 @@
         0,
         22,
         0,
-        0,
-        8,
+        5,
         3,
-        1,
+        4,
+        0,
+        0,
         0
     ],
     "commits_last_year": 103,
-    "latest_tag": "v0.15.2",
+    "latest_tag": "v0.15.3",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -104,7 +104,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 36,
+    "tags_count": 37,
     "open_issues": {
         "labels": [],
         "data": []

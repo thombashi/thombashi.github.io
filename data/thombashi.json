@@ -1,6 +1,6 @@
 {
     "id": "thombashi",
-    "fetched_at": "2018-10-14T17:46:57",
+    "fetched_at": "2018-10-30T22:27:59",
     "data_version": 2,
     "result": "success",
     "profile_name": "Tsuyoshi Hombashi",
@@ -20,12 +20,12 @@
     "blog": "https://thombashi.github.io/",
     "company": null,
     "email": "tsuyoshi.hombashi@gmail.com",
-    "followers": 36,
+    "followers": 38,
     "following": 4,
     "location": "Japan",
     "public_gists": 9,
-    "public_repos": 50,
-    "stars": 173,
+    "public_repos": 52,
+    "stars": 175,
     "organizations": [],
     "languages": {
         "labels": [
@@ -33,7 +33,7 @@
             "Shell",
             "Dockerfile",
             "HTML",
-            "C",
+            "Go",
             "others"
         ],
         "data": [
@@ -41,8 +41,8 @@
             3,
             3,
             2,
-            1,
-            4
+            2,
+            5
         ]
     }
 }

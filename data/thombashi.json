@@ -1,6 +1,6 @@
 {
     "id": "thombashi",
-    "fetched_at": "2018-11-25T23:38:03",
+    "fetched_at": "2018-11-26T12:18:10",
     "data_version": 2,
     "result": "success",
     "profile_name": "Tsuyoshi Hombashi",
@@ -25,7 +25,7 @@
     "location": "Japan",
     "public_gists": 9,
     "public_repos": 58,
-    "stars": null,
+    "stars": 180,
     "organizations": [],
     "languages": {
         "labels": [

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/sqliteschema",
-    "fetched_at": "2018-11-18T22:01:45",
+    "fetched_at": "2018-11-26T12:09:51",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/sqliteschema",
     "name": "sqliteschema",
-    "updated_at": "2018-10-08T13:20:03",
+    "updated_at": "2018-11-25T02:27:26",
     "forks_count": 1,
     "has_issues": true,
     "has_wiki": false,
@@ -18,14 +18,16 @@
     "languages": {
         "labels": [
             "Python",
-            "Shell"
+            "Shell",
+            "Makefile"
         ],
         "data": [
-            46290,
-            604
+            46401,
+            373,
+            195
         ]
     },
-    "languages_count": 2,
+    "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
     "open_issues_count": 0,
@@ -38,7 +40,6 @@
         "sqlite"
     ],
     "participation": [
-        7,
         0,
         0,
         0,
@@ -89,10 +90,11 @@
         0,
         0,
         0,
+        0,
         0
     ],
-    "commits_last_year": 129,
-    "latest_tag": "v0.13.3",
+    "commits_last_year": 122,
+    "latest_tag": "v0.13.4",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -104,7 +106,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 37,
+    "tags_count": 38,
     "open_issues": {
         "labels": [],
         "data": []

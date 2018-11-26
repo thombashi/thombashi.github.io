@@ -1,6 +1,6 @@
 {
     "id": "thombashi/allpairspy",
-    "fetched_at": "2018-11-18T22:02:08",
+    "fetched_at": "2018-11-26T12:10:11",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/allpairspy",
     "name": "allpairspy",
-    "updated_at": "2018-10-22T19:48:09",
+    "updated_at": "2018-11-25T05:17:23",
     "forks_count": 3,
     "has_issues": true,
     "has_wiki": false,
@@ -18,14 +18,16 @@
     "languages": {
         "labels": [
             "Python",
-            "Shell"
+            "Shell",
+            "Makefile"
         ],
         "data": [
-            23379,
-            600
+            23365,
+            371,
+            195
         ]
     },
-    "languages_count": 2,
+    "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
     "open_issues_count": 1,
@@ -39,7 +41,6 @@
         "testing"
     ],
     "participation": [
-        0,
         0,
         0,
         0,
@@ -86,6 +87,7 @@
         3,
         0,
         1,
+        0,
         0,
         0,
         0,

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/DateTimeRange",
-    "fetched_at": "2018-11-18T22:00:44",
+    "fetched_at": "2018-11-26T12:09:03",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/DateTimeRange",
     "name": "DateTimeRange",
-    "updated_at": "2018-10-31T14:59:27",
+    "updated_at": "2018-11-25T06:38:44",
     "forks_count": 2,
     "has_issues": true,
     "has_wiki": false,
@@ -19,15 +19,17 @@
         "labels": [
             "Python",
             "Jupyter Notebook",
+            "Makefile",
             "Shell"
         ],
         "data": [
-            63016,
+            63491,
             15910,
-            603
+            410,
+            371
         ]
     },
-    "languages_count": 3,
+    "languages_count": 4,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
     "open_issues_count": 0,
@@ -61,9 +63,7 @@
         0,
         0,
         0,
-        0,
         3,
-        0,
         23,
         0,
         0,
@@ -83,19 +83,21 @@
         0,
         0,
         0,
+        3,
         18,
-        3,
         0,
         0,
-        3,
+        2,
+        1,
         0,
         0,
         10,
         0,
-        0
+        0,
+        7
     ],
-    "commits_last_year": 60,
-    "latest_tag": "v0.5.0",
+    "commits_last_year": 67,
+    "latest_tag": "v0.5.1",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 2,
@@ -107,7 +109,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 2,
-    "tags_count": 22,
+    "tags_count": 23,
     "open_issues": {
         "labels": [],
         "data": []

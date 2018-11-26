@@ -1,6 +1,6 @@
 {
     "id": "thombashi/subprocrunner",
-    "fetched_at": "2018-11-18T22:01:52",
+    "fetched_at": "2018-11-26T12:09:56",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/subprocrunner",
     "name": "subprocrunner",
-    "updated_at": "2018-11-01T09:57:31",
+    "updated_at": "2018-11-25T03:19:22",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -18,14 +18,16 @@
     "languages": {
         "labels": [
             "Python",
-            "Shell"
+            "Shell",
+            "Makefile"
         ],
         "data": [
-            25425,
-            593
+            25633,
+            361,
+            195
         ]
     },
-    "languages_count": 2,
+    "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
     "open_issues_count": 0,
@@ -47,9 +49,8 @@
         0,
         0,
         0,
-        0,
-        0,
         3,
+        0,
         0,
         0,
         0,
@@ -58,12 +59,12 @@
         0,
         0,
         3,
-        0,
         0,
         0,
         24,
         0,
         11,
+        0,
         1,
         0,
         0,
@@ -78,10 +79,10 @@
         0,
         22,
         0,
-        0,
-        8,
+        5,
         3,
-        1,
+        4,
+        0,
         0,
         0,
         3,
@@ -89,9 +90,10 @@
         0,
         0,
         0,
-        0
+        0,
+        8
     ],
-    "commits_last_year": 99,
+    "commits_last_year": 107,
     "latest_tag": "v0.15.3",
     "branches_count": 1,
     "pulls_count": 0,

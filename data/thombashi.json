@@ -1,6 +1,6 @@
 {
     "id": "thombashi",
-    "fetched_at": "2018-11-18T21:59:58",
+    "fetched_at": "2018-11-25T23:38:03",
     "data_version": 2,
     "result": "success",
     "profile_name": "Tsuyoshi Hombashi",
@@ -24,8 +24,8 @@
     "following": 4,
     "location": "Japan",
     "public_gists": 9,
-    "public_repos": 53,
-    "stars": 178,
+    "public_repos": 58,
+    "stars": null,
     "organizations": [],
     "languages": {
         "labels": [
@@ -37,12 +37,12 @@
             "others"
         ],
         "data": [
-            36,
+            40,
             3,
             3,
             2,
             2,
-            5
+            6
         ]
     }
 }

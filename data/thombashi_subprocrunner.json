@@ -1,6 +1,6 @@
 {
     "id": "thombashi/subprocrunner",
-    "fetched_at": "2018-11-26T12:09:56",
+    "fetched_at": "2018-12-25T10:28:28",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/subprocrunner",
     "name": "subprocrunner",
-    "updated_at": "2018-11-25T03:19:22",
+    "updated_at": "2018-12-24T07:04:36",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -18,13 +18,13 @@
     "languages": {
         "labels": [
             "Python",
-            "Shell",
-            "Makefile"
+            "Makefile",
+            "Shell"
         ],
         "data": [
             25633,
-            361,
-            195
+            337,
+            320
         ]
     },
     "languages_count": 3,
@@ -33,17 +33,13 @@
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": "https://pypi.python.org/pypi/subprocrunner",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "topics": [
         "python-library",
         "subprocess",
         "wrapper-library"
     ],
     "participation": [
-        0,
-        0,
-        0,
-        0,
         0,
         0,
         0,
@@ -84,17 +80,21 @@
         4,
         0,
         0,
-        0,
         3,
         0,
         0,
         0,
         0,
         0,
+        0,
+        8,
+        0,
+        0,
+        0,
         8
     ],
-    "commits_last_year": 107,
-    "latest_tag": "v0.15.3",
+    "commits_last_year": 115,
+    "latest_tag": "v0.15.4",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -106,7 +106,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 37,
+    "tags_count": 38,
     "open_issues": {
         "labels": [],
         "data": []

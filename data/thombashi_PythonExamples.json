@@ -1,6 +1,6 @@
 {
     "id": "thombashi/PythonExamples",
-    "fetched_at": "2018-11-26T12:10:25",
+    "fetched_at": "2018-12-25T10:28:57",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -8,7 +8,7 @@
     "created_at": "2016-03-27T10:54:34",
     "description": ":notebook_with_decorative_cover: Learning Python libraries by examples.",
     "emojis": {
-        "notebook_with_decorative_cover": "https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d4.png?v8"
+        "notebook_with_decorative_cover": "https://github.githubassets.com/images/icons/emoji/unicode/1f4d4.png?v8"
     },
     "html_url": "https://github.com/thombashi/PythonExamples",
     "name": "PythonExamples",

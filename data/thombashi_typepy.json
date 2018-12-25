@@ -1,6 +1,6 @@
 {
     "id": "thombashi/typepy",
-    "fetched_at": "2018-11-26T12:10:04",
+    "fetched_at": "2018-12-25T10:28:36",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -40,10 +40,6 @@
         "validator"
     ],
     "participation": [
-        0,
-        0,
-        0,
-        0,
         7,
         0,
         0,
@@ -82,16 +78,20 @@
         0,
         5,
         5,
-        0,
         5,
-        7,
-        15,
+        0,
+        14,
+        8,
         0,
         0,
         8,
         0,
         0,
-        4
+        4,
+        0,
+        0,
+        0,
+        0
     ],
     "commits_last_year": 157,
     "latest_tag": "v0.3.0",

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pathvalidate",
-    "fetched_at": "2018-11-26T12:09:16",
+    "fetched_at": "2018-12-25T10:27:43",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,8 +10,8 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pathvalidate",
     "name": "pathvalidate",
-    "updated_at": "2018-11-25T09:47:19",
-    "forks_count": 4,
+    "updated_at": "2018-12-23T14:28:00",
+    "forks_count": 5,
     "has_issues": true,
     "has_wiki": false,
     "language": "Python",
@@ -22,8 +22,8 @@
             "Shell"
         ],
         "data": [
-            91921,
-            473,
+            85724,
+            539,
             298
         ]
     },
@@ -33,7 +33,7 @@
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": "https://pathvalidate.rtfd.io/",
-    "stargazers_count": 11,
+    "stargazers_count": 13,
     "topics": [
         "filename",
         "filepath",
@@ -42,10 +42,6 @@
         "validation"
     ],
     "participation": [
-        0,
-        0,
-        0,
-        0,
         0,
         0,
         0,
@@ -73,8 +69,8 @@
         0,
         0,
         0,
-        36,
-        10,
+        37,
+        9,
         0,
         20,
         1,
@@ -85,7 +81,6 @@
         0,
         5,
         0,
-        0,
         2,
         1,
         0,
@@ -93,10 +88,15 @@
         0,
         0,
         0,
-        14
+        0,
+        14,
+        0,
+        0,
+        1,
+        20
     ],
-    "commits_last_year": 134,
-    "latest_tag": "v0.21.4",
+    "commits_last_year": 155,
+    "latest_tag": "v0.22.0",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -107,8 +107,8 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "contributors_count": 2,
-    "tags_count": 40,
+    "contributors_count": 3,
+    "tags_count": 41,
     "open_issues": {
         "labels": [],
         "data": []

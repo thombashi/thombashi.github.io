@@ -1,6 +1,6 @@
 {
     "id": "thombashi",
-    "fetched_at": "2018-11-26T12:18:10",
+    "fetched_at": "2018-12-25T10:26:45",
     "data_version": 2,
     "result": "success",
     "profile_name": "Tsuyoshi Hombashi",
@@ -9,10 +9,10 @@
     "created_at": "2015-10-31T06:57:40",
     "description": ":white_flower:\r\n:computer::zzz:\r\n:snowman::zzz:",
     "emojis": {
-        "white_flower": "https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ae.png?v8",
-        "computer": "https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png?v8",
-        "zzz": "https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a4.png?v8",
-        "snowman": "https://assets-cdn.github.com/images/icons/emoji/unicode/26c4.png?v8"
+        "white_flower": "https://github.githubassets.com/images/icons/emoji/unicode/1f4ae.png?v8",
+        "computer": "https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8",
+        "zzz": "https://github.githubassets.com/images/icons/emoji/unicode/1f4a4.png?v8",
+        "snowman": "https://github.githubassets.com/images/icons/emoji/unicode/26c4.png?v8"
     },
     "html_url": "https://github.com/thombashi",
     "name": "thombashi",
@@ -20,7 +20,7 @@
     "blog": "https://thombashi.github.io/",
     "company": null,
     "email": "tsuyoshi.hombashi@gmail.com",
-    "followers": 38,
+    "followers": 39,
     "following": 4,
     "location": "Japan",
     "public_gists": 9,

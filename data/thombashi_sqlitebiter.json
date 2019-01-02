@@ -1,6 +1,6 @@
 {
     "id": "thombashi/sqlitebiter",
-    "fetched_at": "2018-12-25T10:26:52",
+    "fetched_at": "2019-01-02T12:50:38",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/sqlitebiter",
     "name": "sqlitebiter",
-    "updated_at": "2018-12-24T10:04:07",
+    "updated_at": "2018-12-29T04:26:30",
     "forks_count": 29,
     "has_issues": true,
     "has_wiki": false,
@@ -37,7 +37,7 @@
     "open_issues_count": 1,
     "organization": {},
     "repo_homepage": "https://sqlitebiter.rtfd.io/",
-    "stargazers_count": 368,
+    "stargazers_count": 371,
     "topics": [
         "cli-app",
         "converter",
@@ -55,7 +55,6 @@
         "tsv"
     ],
     "participation": [
-        0,
         0,
         0,
         0,
@@ -106,7 +105,8 @@
         0,
         0,
         0,
-        12
+        12,
+        0
     ],
     "commits_last_year": 306,
     "latest_tag": "v0.23.3",

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/DateTimeRange",
-    "fetched_at": "2018-12-25T10:27:28",
+    "fetched_at": "2019-01-02T12:51:05",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/DateTimeRange",
     "name": "DateTimeRange",
-    "updated_at": "2018-12-24T06:57:47",
+    "updated_at": "2018-12-30T05:57:53",
     "forks_count": 3,
     "has_issues": true,
     "has_wiki": false,
@@ -25,7 +25,7 @@
         "data": [
             63491,
             15910,
-            410,
+            641,
             330
         ]
     },
@@ -43,7 +43,6 @@
         "time-range"
     ],
     "participation": [
-        0,
         0,
         0,
         0,
@@ -94,9 +93,10 @@
         0,
         0,
         0,
+        1,
         1
     ],
-    "commits_last_year": 68,
+    "commits_last_year": 69,
     "latest_tag": "v0.5.1",
     "branches_count": 1,
     "pulls_count": 0,

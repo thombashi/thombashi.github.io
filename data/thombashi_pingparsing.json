@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pingparsing",
-    "fetched_at": "2018-12-25T10:27:51",
+    "fetched_at": "2019-01-02T12:51:21",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -12,7 +12,7 @@
     },
     "html_url": "https://github.com/thombashi/pingparsing",
     "name": "pingparsing",
-    "updated_at": "2018-12-24T07:23:06",
+    "updated_at": "2018-12-30T06:58:24",
     "forks_count": 4,
     "has_issues": true,
     "has_wiki": false,
@@ -24,8 +24,8 @@
             "Shell"
         ],
         "data": [
-            78576,
-            552,
+            78721,
+            639,
             550
         ]
     },
@@ -44,7 +44,6 @@
         "python-library"
     ],
     "participation": [
-        0,
         0,
         0,
         0,
@@ -95,10 +94,11 @@
         0,
         0,
         0,
-        2
+        2,
+        4
     ],
-    "commits_last_year": 135,
-    "latest_tag": "v0.13.8",
+    "commits_last_year": 139,
+    "latest_tag": "v0.13.9",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 2,
@@ -110,7 +110,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 33,
+    "tags_count": 34,
     "open_issues": {
         "labels": [],
         "data": []

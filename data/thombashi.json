@@ -1,6 +1,6 @@
 {
     "id": "thombashi",
-    "fetched_at": "2019-01-02T12:50:30",
+    "fetched_at": "2019-01-03T22:45:57",
     "data_version": 2,
     "result": "success",
     "profile_name": "Tsuyoshi Hombashi",
@@ -24,7 +24,7 @@
     "following": 4,
     "location": "Japan",
     "public_gists": 9,
-    "public_repos": 60,
+    "public_repos": 62,
     "stars": 180,
     "organizations": [],
     "languages": {
@@ -32,15 +32,15 @@
             "Python",
             "Shell",
             "Dockerfile",
-            "HTML",
             "Go",
+            "HTML",
             "others"
         ],
         "data": [
-            42,
+            43,
             3,
             3,
-            2,
+            3,
             2,
             6
         ]

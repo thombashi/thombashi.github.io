@@ -1,6 +1,6 @@
 {
     "id": "thombashi/DataProperty",
-    "fetched_at": "2019-01-02T12:50:59",
+    "fetched_at": "2019-01-03T22:46:29",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/DataProperty",
     "name": "DataProperty",
-    "updated_at": "2019-01-01T10:25:32",
+    "updated_at": "2019-01-03T02:35:01",
     "forks_count": 4,
     "has_issues": true,
     "has_wiki": false,
@@ -22,7 +22,7 @@
             "Shell"
         ],
         "data": [
-            155198,
+            155211,
             384,
             320
         ]
@@ -83,8 +83,8 @@
         25,
         15,
         0,
-        0,
         5,
+        0,
         0,
         0,
         12,
@@ -92,10 +92,10 @@
         0,
         0,
         1,
-        4
+        7
     ],
-    "commits_last_year": 187,
-    "latest_tag": "v0.37.0",
+    "commits_last_year": 190,
+    "latest_tag": "v0.37.1",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -107,7 +107,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 2,
-    "tags_count": 94,
+    "tags_count": 95,
     "open_issues": {
         "labels": [
             "documentation"

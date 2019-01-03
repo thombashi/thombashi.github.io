@@ -1,6 +1,6 @@
 {
     "id": "thombashi/sqlitebiter",
-    "fetched_at": "2019-01-02T12:50:38",
+    "fetched_at": "2019-01-03T22:46:05",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/sqlitebiter",
     "name": "sqlitebiter",
-    "updated_at": "2018-12-29T04:26:30",
+    "updated_at": "2019-01-03T07:55:06",
     "forks_count": 29,
     "has_issues": true,
     "has_wiki": false,
@@ -20,15 +20,15 @@
             "Python",
             "Jupyter Notebook",
             "Shell",
-            "Batchfile",
+            "Makefile",
             "others"
         ],
         "data": [
-            123199,
+            123263,
             48848,
             3351,
-            594,
-            401
+            945,
+            594
         ]
     },
     "languages_count": 5,
@@ -71,8 +71,8 @@
         0,
         0,
         1,
-        25,
-        20,
+        27,
+        18,
         16,
         3,
         20,
@@ -81,8 +81,8 @@
         10,
         5,
         33,
-        16,
-        59,
+        19,
+        56,
         1,
         13,
         1,
@@ -109,7 +109,7 @@
         0
     ],
     "commits_last_year": 306,
-    "latest_tag": "v0.23.3",
+    "latest_tag": "v0.23.4",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 20,
@@ -121,7 +121,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 3,
-    "tags_count": 49,
+    "tags_count": 50,
     "open_issues": {
         "labels": [
             "enhancement"

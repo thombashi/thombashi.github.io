@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2019-01-02T12:50:43",
+    "fetched_at": "2019-01-03T22:46:13",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tcconfig",
     "name": "tcconfig",
-    "updated_at": "2018-12-30T11:49:37",
+    "updated_at": "2019-01-03T07:21:37",
     "forks_count": 34,
     "has_issues": true,
     "has_wiki": false,
@@ -22,7 +22,7 @@
             "Makefile"
         ],
         "data": [
-            280991,
+            281016,
             2321,
             636
         ]
@@ -98,7 +98,7 @@
         11
     ],
     "commits_last_year": 303,
-    "latest_tag": "v0.21.2",
+    "latest_tag": "v0.21.3",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 16,
@@ -110,7 +110,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 6,
-    "tags_count": 58,
+    "tags_count": 59,
     "open_issues": {
         "labels": [
             "not set"

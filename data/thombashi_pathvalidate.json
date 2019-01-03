@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pathvalidate",
-    "fetched_at": "2019-01-02T12:51:15",
+    "fetched_at": "2019-01-03T22:46:50",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pathvalidate",
     "name": "pathvalidate",
-    "updated_at": "2018-12-30T06:35:05",
+    "updated_at": "2019-01-03T13:33:51",
     "forks_count": 5,
     "has_issues": true,
     "has_wiki": false,
@@ -30,10 +30,10 @@
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "organization": {},
     "repo_homepage": "https://pathvalidate.rtfd.io/",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "topics": [
         "filename",
         "filepath",
@@ -110,7 +110,11 @@
     "contributors_count": 3,
     "tags_count": 41,
     "open_issues": {
-        "labels": [],
-        "data": []
+        "labels": [
+            "not set"
+        ],
+        "data": [
+            1
+        ]
     }
 }

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/mbstrdecoder",
-    "fetched_at": "2019-01-02T12:51:10",
+    "fetched_at": "2019-01-03T22:46:42",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/mbstrdecoder",
     "name": "mbstrdecoder",
-    "updated_at": "2018-12-30T02:32:23",
+    "updated_at": "2019-01-03T01:31:24",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -22,7 +22,7 @@
             "Shell"
         ],
         "data": [
-            17537,
+            17551,
             360,
             320
         ]
@@ -30,7 +30,7 @@
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "organization": {},
     "repo_homepage": null,
     "stargazers_count": 2,
@@ -94,7 +94,7 @@
         9
     ],
     "commits_last_year": 74,
-    "latest_tag": "v0.6.1",
+    "latest_tag": "v0.6.2",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -106,13 +106,9 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 13,
+    "tags_count": 14,
     "open_issues": {
-        "labels": [
-            "not set"
-        ],
-        "data": [
-            1
-        ]
+        "labels": [],
+        "data": []
     }
 }

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/allpairspy",
-    "fetched_at": "2019-01-03T22:47:37",
+    "fetched_at": "2019-01-14T17:09:57",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/allpairspy",
     "name": "allpairspy",
-    "updated_at": "2019-01-03T05:36:47",
+    "updated_at": "2019-01-13T04:07:35",
     "forks_count": 6,
     "has_issues": true,
     "has_wiki": false,
@@ -22,7 +22,7 @@
             "Shell"
         ],
         "data": [
-            23328,
+            23362,
             665,
             330
         ]
@@ -52,10 +52,8 @@
         0,
         0,
         0,
-        0,
-        0,
-        4,
-        0,
+        2,
+        2,
         0,
         0,
         0,
@@ -80,8 +78,8 @@
         0,
         3,
         0,
-        1,
         0,
+        1,
         0,
         0,
         0,
@@ -92,9 +90,11 @@
         0,
         0,
         0,
-        12
+        12,
+        3,
+        2
     ],
-    "commits_last_year": 46,
+    "commits_last_year": 51,
     "latest_tag": "v2.4.3",
     "branches_count": 1,
     "pulls_count": 0,

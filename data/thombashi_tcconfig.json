@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2019-01-03T22:46:13",
+    "fetched_at": "2019-01-14T17:08:16",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tcconfig",
     "name": "tcconfig",
-    "updated_at": "2019-01-03T07:21:37",
+    "updated_at": "2019-01-13T22:23:51",
     "forks_count": 34,
     "has_issues": true,
     "has_wiki": false,
@@ -22,9 +22,9 @@
             "Makefile"
         ],
         "data": [
-            281016,
+            281058,
             2321,
-            636
+            688
         ]
     },
     "languages_count": 3,
@@ -33,7 +33,7 @@
     "open_issues_count": 1,
     "organization": {},
     "repo_homepage": "https://tcconfig.rtfd.io/",
-    "stargazers_count": 326,
+    "stargazers_count": 328,
     "topics": [
         "cli-app",
         "docker",
@@ -44,8 +44,6 @@
         "wrapper"
     ],
     "participation": [
-        0,
-        0,
         5,
         0,
         17,
@@ -60,8 +58,8 @@
         45,
         0,
         7,
-        5,
-        54,
+        3,
+        56,
         0,
         1,
         6,
@@ -69,10 +67,10 @@
         0,
         0,
         0,
-        7,
-        0,
-        35,
-        4,
+        1,
+        6,
+        2,
+        37,
         8,
         9,
         1,
@@ -94,11 +92,13 @@
         0,
         0,
         0,
-        8,
-        11
+        0,
+        19,
+        7,
+        8
     ],
-    "commits_last_year": 303,
-    "latest_tag": "v0.21.3",
+    "commits_last_year": 318,
+    "latest_tag": "v0.21.4",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 16,
@@ -109,8 +109,8 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "contributors_count": 6,
-    "tags_count": 59,
+    "contributors_count": 7,
+    "tags_count": 60,
     "open_issues": {
         "labels": [
             "not set"

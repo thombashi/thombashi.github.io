@@ -1,41 +1,39 @@
 {
     "id": "thombashi/DateTimeRange",
-    "fetched_at": "2019-01-03T22:46:37",
+    "fetched_at": "2019-01-14T17:08:45",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
     "card_type": "Repository",
     "created_at": "2016-02-19T05:15:09",
-    "description": "A Python library to handle routine work related to a time range, such as test whether a time is within the time range, get time range intersection, truncating the time range, and so forth.",
+    "description": "DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncating a time range, iterate through a time range, and so forth.",
     "emojis": {},
     "html_url": "https://github.com/thombashi/DateTimeRange",
     "name": "DateTimeRange",
-    "updated_at": "2019-01-03T02:24:24",
-    "forks_count": 3,
+    "updated_at": "2019-01-11T15:23:05",
+    "forks_count": 4,
     "has_issues": true,
     "has_wiki": false,
     "language": "Python",
     "languages": {
         "labels": [
             "Python",
-            "Jupyter Notebook",
             "Makefile",
             "Shell"
         ],
         "data": [
-            63498,
-            15910,
-            641,
+            63499,
+            693,
             330
         ]
     },
-    "languages_count": 4,
+    "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": "https://datetimerange.rtfd.io/",
-    "stargazers_count": 22,
+    "stargazers_count": 24,
     "topics": [
         "datetime",
         "datetime-range",
@@ -43,8 +41,6 @@
         "time-range"
     ],
     "participation": [
-        0,
-        0,
         0,
         0,
         0,
@@ -85,19 +81,21 @@
         2,
         1,
         0,
-        10,
         0,
+        10,
         0,
         0,
         7,
         0,
         0,
         0,
-        1,
-        1
+        0,
+        2,
+        5,
+        13
     ],
-    "commits_last_year": 69,
-    "latest_tag": "v0.5.2",
+    "commits_last_year": 87,
+    "latest_tag": "v0.5.4",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 2,
@@ -109,7 +107,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 2,
-    "tags_count": 24,
+    "tags_count": 26,
     "open_issues": {
         "labels": [],
         "data": []

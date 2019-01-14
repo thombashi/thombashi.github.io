@@ -1,6 +1,6 @@
 {
     "id": "thombashi/subprocrunner",
-    "fetched_at": "2019-01-03T22:47:26",
+    "fetched_at": "2019-01-14T17:09:42",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/subprocrunner",
     "name": "subprocrunner",
-    "updated_at": "2019-01-03T02:14:27",
+    "updated_at": "2019-01-12T07:35:33",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -22,7 +22,7 @@
             "Shell"
         ],
         "data": [
-            25640,
+            27289,
             385,
             320
         ]
@@ -40,8 +40,6 @@
         "wrapper-library"
     ],
     "participation": [
-        0,
-        0,
         0,
         0,
         3,
@@ -79,25 +77,27 @@
         4,
         0,
         0,
+        0,
         3,
         0,
         0,
         0,
         0,
         0,
-        0,
         8,
         0,
         0,
         0,
-        8,
+        0,
+        12,
+        6,
         4
     ],
-    "commits_last_year": 119,
-    "latest_tag": "v0.15.6",
+    "commits_last_year": 129,
+    "latest_tag": "v0.16.0",
     "branches_count": 1,
     "pulls_count": 0,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -106,7 +106,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 40,
+    "tags_count": 41,
     "open_issues": {
         "labels": [],
         "data": []

@@ -22,6 +22,7 @@ targets=(
     "thombashi/SimpleSQLite"
     "thombashi/sqliteschema"
     "thombashi/subprocrunner"
+    "thombashi/tabledata"
     "thombashi/tblfaker"
     "thombashi/thank-you-stars"
     "thombashi/typepy"

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2019-02-18T22:17:07",
+    "fetched_at": "2019-02-28T15:17:30",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tcconfig",
     "name": "tcconfig",
-    "updated_at": "2019-02-17T20:56:43",
+    "updated_at": "2019-02-26T13:28:23",
     "forks_count": 35,
     "has_issues": true,
     "has_wiki": false,
@@ -22,9 +22,9 @@
             "Makefile"
         ],
         "data": [
-            283207,
+            283558,
             2341,
-            895
+            908
         ]
     },
     "languages_count": 3,
@@ -33,7 +33,7 @@
     "open_issues_count": 5,
     "organization": {},
     "repo_homepage": "https://tcconfig.rtfd.io/",
-    "stargazers_count": 331,
+    "stargazers_count": 335,
     "topics": [
         "cli-app",
         "docker",
@@ -49,12 +49,11 @@
         0,
         0,
         0,
-        0,
         45,
         0,
         7,
-        3,
-        56,
+        5,
+        54,
         0,
         1,
         6,
@@ -62,10 +61,10 @@
         0,
         0,
         0,
-        1,
-        6,
-        2,
-        37,
+        7,
+        0,
+        35,
+        4,
         8,
         9,
         1,
@@ -87,18 +86,19 @@
         0,
         0,
         0,
-        0,
-        19,
+        8,
+        11,
         7,
         8,
-        5,
-        8,
+        13,
+        0,
         17,
         23,
-        0
+        0,
+        9
     ],
-    "commits_last_year": 349,
-    "latest_tag": "v0.21.8",
+    "commits_last_year": 358,
+    "latest_tag": "v0.21.9",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 15,
@@ -110,14 +110,16 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 7,
-    "tags_count": 64,
+    "tags_count": 65,
     "open_issues": {
         "labels": [
             "not set",
+            "bug",
             "enhancement"
         ],
         "data": [
-            4,
+            3,
+            1,
             1
         ]
     }

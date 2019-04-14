@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2019-03-30T17:35:37",
+    "fetched_at": "2019-04-14T22:06:16",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tcconfig",
     "name": "tcconfig",
-    "updated_at": "2019-03-22T12:34:06",
+    "updated_at": "2019-04-13T17:55:47",
     "forks_count": 36,
     "has_issues": true,
     "has_wiki": false,
@@ -22,7 +22,7 @@
             "Makefile"
         ],
         "data": [
-            266401,
+            269462,
             2341,
             908
         ]
@@ -33,7 +33,7 @@
     "open_issues_count": 5,
     "organization": {},
     "repo_homepage": "https://tcconfig.rtfd.io/",
-    "stargazers_count": 337,
+    "stargazers_count": 344,
     "topics": [
         "cli-app",
         "docker",
@@ -44,15 +44,13 @@
         "wrapper"
     ],
     "participation": [
-        0,
-        45,
-        0,
-        7,
-        57,
         2,
+        5,
+        59,
         0,
         1,
-        6,
+        4,
+        2,
         0,
         0,
         0,
@@ -60,19 +58,19 @@
         7,
         1,
         38,
-        1,
-        7,
-        10,
-        0,
-        10,
-        0,
-        0,
-        13,
-        0,
         4,
-        5,
-        13,
-        35,
+        4,
+        10,
+        0,
+        10,
+        0,
+        3,
+        10,
+        4,
+        1,
+        4,
+        17,
+        31,
         0,
         0,
         0,
@@ -83,22 +81,24 @@
         0,
         0,
         8,
-        16,
-        2,
+        18,
+        0,
         8,
         13,
         0,
         17,
         23,
         0,
-        9,
-        1,
+        10,
+        0,
         2,
         19,
-        0
+        0,
+        0,
+        11
     ],
-    "commits_last_year": 380,
-    "latest_tag": "v0.22.1",
+    "commits_last_year": 346,
+    "latest_tag": "v0.22.2",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 15,
@@ -110,15 +110,17 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 7,
-    "tags_count": 67,
+    "tags_count": 68,
     "open_issues": {
         "labels": [
             "not set",
-            "enhancement"
+            "enhancement",
+            "bug"
         ],
         "data": [
-            3,
-            2
+            2,
+            2,
+            1
         ]
     }
 }

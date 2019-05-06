@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tblfaker",
-    "fetched_at": "2019-04-21T00:48:08",
+    "fetched_at": "2019-05-06T19:07:44",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tblfaker",
     "name": "tblfaker",
-    "updated_at": "2019-02-12T14:36:43",
+    "updated_at": "2019-05-06T07:25:05",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -22,7 +22,7 @@
             "Shell"
         ],
         "data": [
-            17806,
+            17772,
             666,
             308
         ]
@@ -75,12 +75,10 @@
         0,
         0,
         0,
-        0,
-        0,
-        4,
-        7,
+        9,
         2,
-        7,
+        9,
+        0,
         0,
         0,
         10,
@@ -92,10 +90,12 @@
         0,
         0,
         0,
-        0
+        0,
+        0,
+        8
     ],
-    "commits_last_year": 30,
-    "latest_tag": "v0.0.3",
+    "commits_last_year": 38,
+    "latest_tag": "v0.0.4",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -107,7 +107,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 3,
+    "tags_count": 4,
     "open_issues": {
         "labels": [],
         "data": []

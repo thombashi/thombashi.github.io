@@ -1,6 +1,6 @@
 {
     "id": "thombashi/DateTimeRange",
-    "fetched_at": "2019-04-21T00:47:25",
+    "fetched_at": "2019-05-06T19:06:36",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/DateTimeRange",
     "name": "DateTimeRange",
-    "updated_at": "2019-03-17T07:46:43",
+    "updated_at": "2019-05-02T08:59:38",
     "forks_count": 5,
     "has_issues": true,
     "has_wiki": false,
@@ -22,7 +22,7 @@
             "Shell"
         ],
         "data": [
-            63514,
+            63519,
             935,
             330
         ]
@@ -41,9 +41,6 @@
         "time-range"
     ],
     "participation": [
-        3,
-        23,
-        0,
         0,
         0,
         0,
@@ -68,18 +65,18 @@
         2,
         1,
         0,
-        10,
         0,
+        10,
         0,
         0,
         7,
         0,
         0,
         0,
-        1,
-        4,
-        15,
         0,
+        2,
+        5,
+        13,
         0,
         0,
         0,
@@ -92,10 +89,13 @@
         0,
         0,
         0,
-        0
+        0,
+        0,
+        0,
+        7
     ],
-    "commits_last_year": 101,
-    "latest_tag": "v0.5.5",
+    "commits_last_year": 82,
+    "latest_tag": "v0.6.0",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 2,
@@ -107,7 +107,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 2,
-    "tags_count": 27,
+    "tags_count": 28,
     "open_issues": {
         "labels": [],
         "data": []

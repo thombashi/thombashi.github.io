@@ -1,6 +1,6 @@
 {
     "id": "thombashi/thank-you-stars",
-    "fetched_at": "2019-04-21T00:48:12",
+    "fetched_at": "2019-05-06T19:07:51",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -12,7 +12,7 @@
     },
     "html_url": "https://github.com/thombashi/thank-you-stars",
     "name": "thank-you-stars",
-    "updated_at": "2019-03-24T07:06:21",
+    "updated_at": "2019-05-06T08:31:01",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -23,7 +23,7 @@
             "Makefile"
         ],
         "data": [
-            43408,
+            43279,
             677
         ]
     },
@@ -75,8 +75,6 @@
         0,
         0,
         0,
-        0,
-        0,
         12,
         0,
         0,
@@ -86,14 +84,16 @@
         0,
         0,
         0,
-        0,
         4,
+        0,
+        0,
+        0,
         0,
         0,
         0
     ],
     "commits_last_year": 23,
-    "latest_tag": "v0.0.6",
+    "latest_tag": "v0.0.7",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -105,7 +105,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 6,
+    "tags_count": 7,
     "open_issues": {
         "labels": [],
         "data": []

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pytablewriter",
-    "fetched_at": "2019-05-06T19:07:10",
+    "fetched_at": "2019-05-12T16:25:45",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pytablewriter",
     "name": "pytablewriter",
-    "updated_at": "2019-05-05T15:18:08",
+    "updated_at": "2019-05-11T13:03:43",
     "forks_count": 24,
     "has_issues": true,
     "has_wiki": false,
@@ -22,15 +22,15 @@
             "Shell"
         ],
         "data": [
-            419868,
-            1218,
+            419918,
+            1230,
             298
         ]
     },
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "organization": {},
     "repo_homepage": "https://pytablewriter.rtfd.io/",
     "stargazers_count": 284,
@@ -57,16 +57,16 @@
         "tsv"
     ],
     "participation": [
-        16,
+        14,
         0,
-        0,
-        8,
-        12,
-        17,
-        0,
+        1,
+        9,
+        26,
+        1,
         7,
         0,
-        14,
+        2,
+        12,
         11,
         0,
         1,
@@ -75,29 +75,28 @@
         0,
         0,
         6,
-        5,
-        10,
-        10,
+        15,
+        1,
         14,
-        26,
+        35,
         0,
         0,
         3,
         0,
         0,
-        13,
-        2,
+        1,
+        14,
         0,
         0,
         0,
         0,
-        54,
-        53,
-        19,
-        15,
+        41,
+        32,
+        51,
+        3,
+        14,
         0,
-        5,
-        43,
+        48,
         9,
         1,
         0,
@@ -108,10 +107,11 @@
         0,
         8,
         0,
-        10
+        0,
+        19
     ],
-    "commits_last_year": 410,
-    "latest_tag": "v0.46.0",
+    "commits_last_year": 417,
+    "latest_tag": "v0.46.1",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 11,
@@ -123,13 +123,13 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 2,
-    "tags_count": 93,
+    "tags_count": 94,
     "open_issues": {
         "labels": [
             "not set"
         ],
         "data": [
-            2
+            3
         ]
     }
 }

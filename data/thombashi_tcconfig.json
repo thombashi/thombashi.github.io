@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2019-05-12T16:24:19",
+    "fetched_at": "2019-05-19T00:06:31",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tcconfig",
     "name": "tcconfig",
-    "updated_at": "2019-05-12T04:02:39",
+    "updated_at": "2019-05-18T09:32:17",
     "forks_count": 37,
     "has_issues": true,
     "has_wiki": false,
@@ -24,16 +24,16 @@
         "data": [
             269688,
             2337,
-            920
+            1028
         ]
     },
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "organization": {},
     "repo_homepage": "https://tcconfig.rtfd.io/",
-    "stargazers_count": 354,
+    "stargazers_count": 355,
     "topics": [
         "cli-app",
         "docker",
@@ -45,8 +45,7 @@
     ],
     "participation": [
         1,
-        4,
-        2,
+        6,
         0,
         0,
         0,
@@ -54,19 +53,19 @@
         7,
         1,
         38,
-        4,
-        4,
-        10,
-        0,
-        10,
-        0,
-        3,
-        10,
-        4,
         1,
+        7,
+        10,
+        0,
+        10,
+        0,
+        0,
+        13,
+        0,
         4,
-        17,
-        31,
+        5,
+        13,
+        35,
         0,
         0,
         0,
@@ -77,31 +76,32 @@
         0,
         0,
         8,
-        18,
-        0,
+        16,
+        2,
         8,
         13,
         0,
         17,
         23,
         0,
-        10,
-        0,
+        9,
+        1,
         2,
         19,
+        0,
         0,
         0,
         11,
         3,
         0,
         0,
-        3
+        13
     ],
-    "commits_last_year": 286,
+    "commits_last_year": 296,
     "latest_tag": "v0.23.0",
     "branches_count": 1,
     "pulls_count": 0,
-    "subscribers_count": 16,
+    "subscribers_count": 17,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -114,11 +114,13 @@
     "open_issues": {
         "labels": [
             "not set",
-            "enhancement"
+            "enhancement",
+            "document"
         ],
         "data": [
             2,
-            2
+            2,
+            1
         ]
     }
 }

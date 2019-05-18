@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pytablewriter",
-    "fetched_at": "2019-05-12T16:25:45",
+    "fetched_at": "2019-05-19T00:07:03",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pytablewriter",
     "name": "pytablewriter",
-    "updated_at": "2019-05-11T13:03:43",
+    "updated_at": "2019-05-15T08:01:38",
     "forks_count": 24,
     "has_issues": true,
     "has_wiki": false,
@@ -33,7 +33,7 @@
     "open_issues_count": 3,
     "organization": {},
     "repo_homepage": "https://pytablewriter.rtfd.io/",
-    "stargazers_count": 284,
+    "stargazers_count": 286,
     "topics": [
         "csv",
         "elasticsearch",
@@ -57,12 +57,11 @@
         "tsv"
     ],
     "participation": [
-        14,
         0,
-        1,
-        9,
-        26,
-        1,
+        0,
+        8,
+        12,
+        17,
         7,
         0,
         2,
@@ -76,29 +75,30 @@
         0,
         6,
         15,
-        1,
-        14,
-        35,
         0,
+        10,
+        27,
+        13,
         0,
         3,
         0,
         0,
-        1,
-        14,
+        0,
+        13,
+        2,
         0,
         0,
         0,
-        0,
-        41,
-        32,
+        39,
+        34,
         51,
-        3,
-        14,
+        2,
+        15,
         0,
-        48,
-        9,
+        28,
+        29,
         1,
+        0,
         0,
         15,
         0,
@@ -107,10 +107,10 @@
         0,
         8,
         0,
-        0,
-        19
+        10,
+        9
     ],
-    "commits_last_year": 417,
+    "commits_last_year": 403,
     "latest_tag": "v0.46.1",
     "branches_count": 1,
     "pulls_count": 0,
@@ -126,10 +126,12 @@
     "tags_count": 94,
     "open_issues": {
         "labels": [
-            "not set"
+            "not set",
+            "enhancement"
         ],
         "data": [
-            3
+            2,
+            1
         ]
     }
 }

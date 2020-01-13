@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pytablewriter",
-    "fetched_at": "2020-01-12T12:24:04",
+    "fetched_at": "2020-01-13T16:32:20",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pytablewriter",
     "name": "pytablewriter",
-    "updated_at": "2020-01-04T07:58:27",
+    "updated_at": "2020-01-13T04:53:46",
     "forks_count": 29,
     "has_issues": true,
     "has_wiki": false,
@@ -22,15 +22,15 @@
             "Shell"
         ],
         "data": [
-            419865,
-            1322,
-            298
+            420063,
+            1157,
+            243
         ]
     },
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "organization": {},
     "repo_homepage": "https://pytablewriter.rtfd.io/",
     "stargazers_count": 351,
@@ -57,11 +57,11 @@
         "tsv"
     ],
     "participation": [
-        51,
-        3,
-        14,
+        19,
+        15,
         0,
-        48,
+        5,
+        43,
         9,
         1,
         0,
@@ -72,10 +72,8 @@
         0,
         8,
         0,
-        0,
-        19,
-        0,
-        0,
+        10,
+        9,
         0,
         0,
         0,
@@ -107,11 +105,13 @@
         0,
         0,
         0,
-        15,
+        0,
+        0,
+        17,
         0
     ],
-    "commits_last_year": 183,
-    "latest_tag": "v0.46.1",
+    "commits_last_year": 151,
+    "latest_tag": "v0.46.3",
     "branches_count": 1,
     "pulls_count": 1,
     "subscribers_count": 13,
@@ -123,14 +123,14 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 2,
-    "tags_count": 94,
+    "tags_count": 95,
     "open_issues": {
         "labels": [
             "not set",
             "enhancement"
         ],
         "data": [
-            6,
+            5,
             2
         ]
     }

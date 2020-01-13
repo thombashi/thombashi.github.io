@@ -1,1 +1,21 @@
-{"blog": "", "public_gists": 0, "description": "Tools to help you be moar betters on the web.", "public_repos": 6, "created_at": "2012-03-06T05:21:04", "public_members_count": 4, "html_url": "https://github.com/FortAwesome", "updated_at": "2017-03-08T10:09:28", "card_type": "Organization", "data_version": 1, "avatar_url": "https://avatars3.githubusercontent.com/u/1505683?v=3", "location": "Cambridge, MA", "email": "admin@fortawesome.com", "fetched_at": "2017-03-27T11:44:52", "emojis": {}, "company": null, "id": "FortAwesome", "name": "FortAwesome"}
+{
+    "id": "FortAwesome",
+    "fetched_at": "2020-01-13T18:29:47",
+    "data_version": 2,
+    "result": "success",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1505683?v=4",
+    "card_type": "Organization",
+    "created_at": "2012-03-06T05:21:04",
+    "description": "Tools to help you be moar betters on the web.",
+    "emojis": {},
+    "html_url": "https://github.com/FortAwesome",
+    "name": "FortAwesome",
+    "updated_at": "2018-08-01T02:58:45",
+    "blog": null,
+    "company": null,
+    "email": "admin@fortawesome.com",
+    "location": "Cambridge, MA",
+    "public_gists": 0,
+    "public_repos": 16,
+    "public_members_count": 4
+}

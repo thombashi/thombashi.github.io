@@ -1,1 +1,21 @@
-{"blog": "https://github.com/about", "public_gists": 0, "description": "How people build software.", "public_repos": 175, "created_at": "2008-05-11T04:37:31", "public_members_count": 200, "html_url": "https://github.com/github", "updated_at": "2017-02-28T19:30:39", "card_type": "Organization", "data_version": 1, "avatar_url": "https://avatars2.githubusercontent.com/u/9919?v=3", "location": "San Francisco, CA", "email": "support@github.com", "fetched_at": "2017-03-27T11:47:01", "emojis": {}, "company": null, "id": "github", "name": "github"}
+{
+    "id": "github",
+    "fetched_at": "2020-01-13T18:29:49",
+    "data_version": 2,
+    "result": "success",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/9919?v=4",
+    "card_type": "Organization",
+    "created_at": "2008-05-11T04:37:31",
+    "description": "How people build software.",
+    "emojis": {},
+    "html_url": "https://github.com/github",
+    "name": "github",
+    "updated_at": "2019-10-15T14:32:53",
+    "blog": "https://github.com/about",
+    "company": null,
+    "email": "support@github.com",
+    "location": "San Francisco, CA",
+    "public_gists": 0,
+    "public_repos": 322,
+    "public_members_count": 213
+}

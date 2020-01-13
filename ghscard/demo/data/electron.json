@@ -1,1 +1,21 @@
-{"blog": "http://electron.atom.io", "public_gists": 0, "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS", "public_repos": 39, "created_at": "2015-07-19T23:17:47", "public_members_count": 34, "html_url": "https://github.com/electron", "updated_at": "2017-03-17T06:01:12", "card_type": "Organization", "data_version": 1, "avatar_url": "https://avatars2.githubusercontent.com/u/13409222?v=3", "location": "San Francisco, CA", "email": "electron@github.com", "fetched_at": "2017-03-27T11:49:01", "emojis": {}, "company": null, "id": "electron", "name": "electron"}
+{
+    "id": "electron",
+    "fetched_at": "2020-01-13T18:29:58",
+    "data_version": 2,
+    "result": "success",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/13409222?v=4",
+    "card_type": "Organization",
+    "created_at": "2015-07-19T23:17:47",
+    "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
+    "emojis": {},
+    "html_url": "https://github.com/electron",
+    "name": "electron",
+    "updated_at": "2019-12-16T16:04:42",
+    "blog": "https://electronjs.org",
+    "company": null,
+    "email": "electron@github.com",
+    "location": "San Francisco, CA",
+    "public_gists": 0,
+    "public_repos": 71,
+    "public_members_count": 109
+}

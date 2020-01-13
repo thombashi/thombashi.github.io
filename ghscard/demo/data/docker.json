@@ -1,1 +1,21 @@
-{"blog": "https://www.docker.com", "public_gists": 0, "description": "", "public_repos": 111, "created_at": "2013-09-10T17:53:43", "public_members_count": 43, "html_url": "https://github.com/docker", "updated_at": "2017-03-08T10:32:31", "card_type": "Organization", "data_version": 1, "avatar_url": "https://avatars2.githubusercontent.com/u/5429470?v=3", "location": "", "email": "", "fetched_at": "2017-03-27T11:49:47", "emojis": {}, "company": null, "id": "docker", "name": "docker"}
+{
+    "id": "docker",
+    "fetched_at": "2020-01-13T18:30:03",
+    "data_version": 2,
+    "result": "success",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/5429470?v=4",
+    "card_type": "Organization",
+    "created_at": "2013-09-10T17:53:43",
+    "description": "Docker enables developers and IT operations to build, secure and manage applications without technology or infrastructure lock in.",
+    "emojis": {},
+    "html_url": "https://github.com/docker",
+    "name": "docker",
+    "updated_at": "2019-07-18T20:14:40",
+    "blog": "https://www.docker.com",
+    "company": null,
+    "email": "info@docker.com",
+    "location": "San Francisco, CA",
+    "public_gists": 0,
+    "public_repos": 139,
+    "public_members_count": 31
+}

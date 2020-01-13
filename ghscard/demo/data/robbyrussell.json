@@ -1,1 +1,41 @@
-{"public_repos": 34, "description": "Managing Partner @PlanetArgon. \u201cAging\u201d Ruby on Rails dev. Creator of @ohmyzsh. Guitarist. Vinyl collector. Scotch enthusiast. Wine sipper. Writer. Explorer.", "organizations": [], "company": "Planet Argon, LLC", "html_url": "https://github.com/robbyrussell", "updated_at": "2017-01-30T16:45:33", "profile_name": "Robby Russell", "fetched_at": "2017-03-27T08:17:49", "id": "robbyrussell", "card_type": "User", "public_gists": 55, "name": "robbyrussell", "languages": {"labels": ["Ruby", "JavaScript", "HTML", "CSS", "Shell"], "data": [22, 4, 3, 2, 1]}, "created_at": "2008-02-13T23:04:43", "blog": "http://planetargon.com/robby", "data_version": 1, "avatar_url": "https://avatars1.githubusercontent.com/u/257?v=3", "followers": 1947, "location": "Portland, Oregon", "stars": 84, "following": 32, "emojis": {}, "email": null}
+{
+    "id": "robbyrussell",
+    "fetched_at": "2020-01-13T18:29:40",
+    "data_version": 2,
+    "result": "success",
+    "profile_name": "Robby Russell",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/257?v=4",
+    "card_type": "User",
+    "created_at": "2008-02-13T23:04:43",
+    "description": "VP Engineering/Partner @planetargon. Old-timer Ruby on Rails developer. Creator of @ohmyzsh. Host of Maintainable Software Podcast\r\n\r\nhe/him/his",
+    "emojis": {},
+    "html_url": "https://github.com/robbyrussell",
+    "name": "robbyrussell",
+    "updated_at": "2020-01-10T18:14:50",
+    "blog": "https://www.planetargon.com/about/robby-russell",
+    "company": "Planet Argon, LLC",
+    "email": null,
+    "followers": 3558,
+    "following": 33,
+    "location": "Portland, Oregon",
+    "public_gists": 56,
+    "public_repos": 43,
+    "stars": 105,
+    "organizations": [],
+    "languages": {
+        "labels": [
+            "Ruby",
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "C"
+        ],
+        "data": [
+            28,
+            4,
+            4,
+            3,
+            1
+        ]
+    }
+}

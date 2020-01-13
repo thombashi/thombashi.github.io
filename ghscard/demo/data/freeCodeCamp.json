@@ -1,1 +1,21 @@
-{"blog": "http://www.freecodecamp.com", "public_gists": 5, "description": "We're an open source community of people who learn to code and help nonprofits", "public_repos": 67, "created_at": "2014-11-22T00:12:57", "public_members_count": 25, "html_url": "https://github.com/freeCodeCamp", "updated_at": "2017-01-11T05:25:15", "card_type": "Organization", "data_version": 1, "avatar_url": "https://avatars3.githubusercontent.com/u/9892522?v=3", "location": "San Francisco, California, USA", "email": "", "fetched_at": "2017-03-27T08:12:48", "emojis": {}, "company": null, "id": "freeCodeCamp", "name": "freeCodeCamp"}
+{
+    "id": "freeCodeCamp",
+    "fetched_at": "2020-01-13T18:26:57",
+    "data_version": 2,
+    "result": "success",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/9892522?v=4",
+    "card_type": "Organization",
+    "created_at": "2014-11-22T00:12:57",
+    "description": "Learn to code for free with millions of other people around the world",
+    "emojis": {},
+    "html_url": "https://github.com/freeCodeCamp",
+    "name": "freeCodeCamp",
+    "updated_at": "2020-01-06T15:52:28",
+    "blog": "https://www.freecodecamp.org",
+    "company": null,
+    "email": null,
+    "location": "Just here on Earth... for now",
+    "public_gists": 5,
+    "public_repos": 127,
+    "public_members_count": 65
+}

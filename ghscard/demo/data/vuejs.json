@@ -1,1 +1,21 @@
-{"blog": "http://vuejs.org", "public_gists": 0, "description": null, "public_repos": 62, "created_at": "2013-12-07T06:13:00", "public_members_count": 19, "html_url": "https://github.com/vuejs", "updated_at": "2017-03-10T05:49:34", "card_type": "Organization", "data_version": 1, "avatar_url": "https://avatars2.githubusercontent.com/u/6128107?v=3", "location": null, "email": "", "fetched_at": "2017-03-27T11:47:22", "emojis": {}, "company": null, "id": "vuejs", "name": "vuejs"}
+{
+    "id": "vuejs",
+    "fetched_at": "2020-01-13T18:29:53",
+    "data_version": 2,
+    "result": "success",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/6128107?v=4",
+    "card_type": "Organization",
+    "created_at": "2013-12-07T06:13:00",
+    "description": "",
+    "emojis": {},
+    "html_url": "https://github.com/vuejs",
+    "name": "vuejs",
+    "updated_at": "2020-01-09T15:33:34",
+    "blog": "https://vuejs.org",
+    "company": null,
+    "email": null,
+    "location": "All Over the World",
+    "public_gists": 0,
+    "public_repos": 106,
+    "public_members_count": 37
+}

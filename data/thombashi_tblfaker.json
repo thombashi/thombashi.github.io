@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tblfaker",
-    "fetched_at": "2020-01-13T16:32:32",
+    "fetched_at": "2020-01-19T19:35:50",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -41,7 +41,6 @@
         "tabular-data"
     ],
     "participation": [
-        9,
         0,
         0,
         0,
@@ -56,8 +55,8 @@
         0,
         0,
         0,
-        8,
-        6,
+        0,
+        14,
         0,
         0,
         0,
@@ -92,9 +91,10 @@
         0,
         0,
         3,
+        0,
         22
     ],
-    "commits_last_year": 58,
+    "commits_last_year": 49,
     "latest_tag": "v0.1.0",
     "branches_count": 1,
     "pulls_count": 0,

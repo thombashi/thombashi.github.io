@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pathvalidate",
-    "fetched_at": "2020-01-13T16:32:13",
+    "fetched_at": "2020-01-19T19:35:31",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pathvalidate",
     "name": "pathvalidate",
-    "updated_at": "2020-01-13T06:45:31",
+    "updated_at": "2020-01-18T07:02:37",
     "forks_count": 5,
     "has_issues": true,
     "has_wiki": false,
@@ -23,7 +23,7 @@
         ],
         "data": [
             93775,
-            1034,
+            944,
             204
         ]
     },
@@ -33,21 +33,21 @@
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": "https://pathvalidate.rtfd.io/",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "topics": [
         "filename",
         "filepath",
+        "lint",
         "python-library",
         "sanitization",
         "validation"
     ],
     "participation": [
         0,
-        0,
-        32,
-        1,
-        13,
-        0,
+        6,
+        26,
+        12,
+        2,
         0,
         0,
         22,
@@ -63,8 +63,8 @@
         0,
         0,
         0,
-        11,
-        0,
+        4,
+        7,
         0,
         0,
         0,
@@ -93,9 +93,10 @@
         0,
         0,
         64,
-        33
+        30,
+        24
     ],
-    "commits_last_year": 216,
+    "commits_last_year": 237,
     "latest_tag": "v2.0.1",
     "branches_count": 1,
     "pulls_count": 0,

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/thank-you-stars",
-    "fetched_at": "2020-01-13T16:32:34",
+    "fetched_at": "2020-01-19T19:35:53",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -39,11 +39,11 @@
         "pypi-packages"
     ],
     "participation": [
-        12,
         0,
         0,
         0,
         7,
+        0,
         0,
         0,
         0,
@@ -54,8 +54,8 @@
         0,
         0,
         0,
-        0,
-        11,
+        9,
+        2,
         0,
         0,
         0,
@@ -92,7 +92,7 @@
         0,
         0
     ],
-    "commits_last_year": 34,
+    "commits_last_year": 22,
     "latest_tag": "v0.0.8",
     "branches_count": 1,
     "pulls_count": 0,

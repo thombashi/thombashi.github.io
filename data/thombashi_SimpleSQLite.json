@@ -1,6 +1,6 @@
 {
     "id": "thombashi/SimpleSQLite",
-    "fetched_at": "2020-01-13T16:32:23",
+    "fetched_at": "2020-01-19T19:35:41",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/SimpleSQLite",
     "name": "SimpleSQLite",
-    "updated_at": "2020-01-05T15:10:31",
+    "updated_at": "2020-01-18T05:01:03",
     "forks_count": 12,
     "has_issues": true,
     "has_wiki": false,
@@ -23,9 +23,9 @@
             "Shell"
         ],
         "data": [
-            192456,
+            192438,
             71819,
-            1660,
+            1466,
             265
         ]
     },
@@ -45,14 +45,13 @@
         "sqlite"
     ],
     "participation": [
-        49,
-        24,
+        36,
         9,
-        0,
+        9,
         4,
         29,
-        7,
         0,
+        7,
         5,
         22,
         0,
@@ -95,11 +94,12 @@
         0,
         0,
         0,
-        21,
-        0
+        1,
+        20,
+        9
     ],
-    "commits_last_year": 204,
-    "latest_tag": "v0.45.4",
+    "commits_last_year": 185,
+    "latest_tag": "v0.45.5",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 2,
@@ -111,7 +111,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 105,
+    "tags_count": 106,
     "open_issues": {
         "labels": [],
         "data": []

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/allpairspy",
-    "fetched_at": "2020-01-13T16:32:42",
+    "fetched_at": "2020-01-19T19:35:57",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/allpairspy",
     "name": "allpairspy",
-    "updated_at": "2020-01-04T05:39:56",
+    "updated_at": "2020-01-19T02:14:16",
     "forks_count": 18,
     "has_issues": true,
     "has_wiki": false,
@@ -22,9 +22,9 @@
             "Shell"
         ],
         "data": [
-            23445,
-            921,
-            330
+            23533,
+            992,
+            265
         ]
     },
     "languages_count": 3,
@@ -33,7 +33,7 @@
     "open_issues_count": 3,
     "organization": {},
     "repo_homepage": null,
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "topics": [
         "allpairs",
         "pairwise",
@@ -41,7 +41,6 @@
         "testing"
     ],
     "participation": [
-        0,
         0,
         0,
         0,
@@ -92,6 +91,7 @@
         0,
         0,
         3,
+        0,
         0
     ],
     "commits_last_year": 19,

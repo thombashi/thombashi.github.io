@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2020-01-19T19:35:17",
+    "fetched_at": "2020-02-03T22:38:53",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,8 +10,8 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tcconfig",
     "name": "tcconfig",
-    "updated_at": "2020-01-19T09:47:11",
-    "forks_count": 44,
+    "updated_at": "2020-02-02T14:15:54",
+    "forks_count": 45,
     "has_issues": true,
     "has_wiki": false,
     "language": "Python",
@@ -22,18 +22,18 @@
             "Makefile"
         ],
         "data": [
-            277845,
+            277619,
             2789,
-            889
+            449
         ]
     },
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 11,
+    "open_issues_count": 13,
     "organization": {},
     "repo_homepage": "https://tcconfig.rtfd.io/",
-    "stargazers_count": 420,
+    "stargazers_count": 422,
     "topics": [
         "cli-app",
         "docker",
@@ -44,23 +44,21 @@
         "wrapper"
     ],
     "participation": [
-        13,
-        0,
-        17,
         23,
         0,
-        10,
         0,
+        10,
         2,
-        19,
+        10,
+        9,
         0,
         0,
         11,
         3,
         0,
         0,
-        3,
         13,
+        3,
         0,
         0,
         0,
@@ -95,13 +93,15 @@
         0,
         0,
         0,
-        12
+        40,
+        0,
+        15
     ],
-    "commits_last_year": 126,
-    "latest_tag": "v0.24.0",
+    "commits_last_year": 139,
+    "latest_tag": "v0.24.1",
     "branches_count": 1,
     "pulls_count": 0,
-    "subscribers_count": 18,
+    "subscribers_count": 19,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -110,17 +110,23 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 7,
-    "tags_count": 71,
+    "tags_count": 72,
     "open_issues": {
         "labels": [
             "not set",
             "enhancement",
+            "needs-info",
+            "refactoring",
             "bug",
+            "help wanted",
             "question"
         ],
         "data": [
             5,
             4,
+            1,
+            1,
+            1,
             1,
             1
         ]

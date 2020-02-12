@@ -1,6 +1,6 @@
 {
     "id": "thombashi/typepy",
-    "fetched_at": "2020-01-19T19:35:55",
+    "fetched_at": "2020-02-13T00:16:04",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/typepy",
     "name": "typepy",
-    "updated_at": "2020-01-12T08:29:11",
+    "updated_at": "2020-02-09T12:53:43",
     "forks_count": 1,
     "has_issues": true,
     "has_wiki": false,
@@ -22,8 +22,8 @@
             "Shell"
         ],
         "data": [
-            105599,
-            993,
+            105122,
+            512,
             265
         ]
     },
@@ -33,7 +33,7 @@
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": "https://typepy.rtfd.io/",
-    "stargazers_count": 9,
+    "stargazers_count": 11,
     "topics": [
         "python",
         "python-library",
@@ -43,9 +43,6 @@
     ],
     "participation": [
         0,
-        7,
-        0,
-        10,
         0,
         0,
         0,
@@ -55,8 +52,8 @@
         0,
         4,
         1,
-        0,
-        14,
+        8,
+        6,
         9,
         0,
         0,
@@ -91,12 +88,15 @@
         0,
         0,
         0,
-        24,
-        14,
-        4
+        31,
+        11,
+        0,
+        0,
+        0,
+        14
     ],
-    "commits_last_year": 87,
-    "latest_tag": "v0.6.4",
+    "commits_last_year": 84,
+    "latest_tag": "v0.6.5",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -108,7 +108,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 48,
+    "tags_count": 49,
     "open_issues": {
         "labels": [],
         "data": []

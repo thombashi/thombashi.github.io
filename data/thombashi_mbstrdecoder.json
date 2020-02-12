@@ -1,6 +1,6 @@
 {
     "id": "thombashi/mbstrdecoder",
-    "fetched_at": "2020-02-03T22:39:06",
+    "fetched_at": "2020-02-13T00:15:34",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -40,8 +40,6 @@
         "python-library"
     ],
     "participation": [
-        1,
-        6,
         0,
         0,
         0,
@@ -52,7 +50,8 @@
         0,
         0,
         0,
-        10,
+        8,
+        2,
         7,
         0,
         0,
@@ -91,9 +90,10 @@
         3,
         0,
         0,
+        0,
         0
     ],
-    "commits_last_year": 61,
+    "commits_last_year": 54,
     "latest_tag": "v0.8.4",
     "branches_count": 1,
     "pulls_count": 0,

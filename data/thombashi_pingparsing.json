@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pingparsing",
-    "fetched_at": "2020-02-03T22:39:11",
+    "fetched_at": "2020-02-13T00:15:39",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -12,7 +12,7 @@
     },
     "html_url": "https://github.com/thombashi/pingparsing",
     "name": "pingparsing",
-    "updated_at": "2020-02-03T13:37:52",
+    "updated_at": "2020-02-12T15:10:16",
     "forks_count": 7,
     "has_issues": true,
     "has_wiki": false,
@@ -24,8 +24,8 @@
             "Shell"
         ],
         "data": [
-            86886,
-            466,
+            87320,
+            470,
             265
         ]
     },
@@ -35,7 +35,7 @@
     "open_issues_count": 3,
     "organization": {},
     "repo_homepage": "https://pingparsing.rtfd.io/",
-    "stargazers_count": 29,
+    "stargazers_count": 31,
     "topics": [
         "cli-app",
         "network",
@@ -44,8 +44,7 @@
         "python-library"
     ],
     "participation": [
-        4,
-        43,
+        22,
         3,
         0,
         1,
@@ -56,8 +55,8 @@
         0,
         0,
         0,
-        4,
-        26,
+        11,
+        19,
         0,
         0,
         0,
@@ -95,9 +94,10 @@
         3,
         0,
         0,
-        15
+        32,
+        17
     ],
-    "commits_last_year": 124,
+    "commits_last_year": 133,
     "latest_tag": "v0.18.2",
     "branches_count": 1,
     "pulls_count": 0,

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pytablereader",
-    "fetched_at": "2020-02-03T22:39:13",
+    "fetched_at": "2020-02-13T00:15:43",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pytablereader",
     "name": "pytablereader",
-    "updated_at": "2020-02-02T12:53:17",
+    "updated_at": "2020-02-12T06:50:08",
     "forks_count": 6,
     "has_issues": true,
     "has_wiki": false,
@@ -23,9 +23,9 @@
             "Shell"
         ],
         "data": [
-            290433,
+            288127,
             71819,
-            745,
+            566,
             265
         ]
     },
@@ -54,9 +54,8 @@
         "tsv"
     ],
     "participation": [
+        13,
         0,
-        16,
-        4,
         0,
         0,
         3,
@@ -66,8 +65,8 @@
         3,
         3,
         0,
-        12,
-        8,
+        13,
+        7,
         0,
         0,
         0,
@@ -102,13 +101,14 @@
         0,
         0,
         27,
-        2,
-        9,
+        11,
         0,
-        4
+        0,
+        4,
+        19
     ],
-    "commits_last_year": 106,
-    "latest_tag": "v0.26.5",
+    "commits_last_year": 118,
+    "latest_tag": "v0.27.1",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 5,
@@ -120,7 +120,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 3,
-    "tags_count": 98,
+    "tags_count": 100,
     "open_issues": {
         "labels": [],
         "data": []

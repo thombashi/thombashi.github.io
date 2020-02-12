@@ -1,6 +1,6 @@
 {
     "id": "thombashi/DataProperty",
-    "fetched_at": "2020-02-03T22:39:00",
+    "fetched_at": "2020-02-13T00:15:30",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/DataProperty",
     "name": "DataProperty",
-    "updated_at": "2020-01-12T10:53:04",
+    "updated_at": "2020-02-11T14:04:11",
     "forks_count": 5,
     "has_issues": true,
     "has_wiki": false,
@@ -22,8 +22,8 @@
             "Shell"
         ],
         "data": [
-            157930,
-            667,
+            165268,
+            712,
             265
         ]
     },
@@ -33,7 +33,7 @@
     "open_issues_count": 1,
     "organization": {},
     "repo_homepage": "https://pypi.python.org/pypi/DataProperty",
-    "stargazers_count": 11,
+    "stargazers_count": 14,
     "topics": [
         "data",
         "property",
@@ -41,8 +41,7 @@
         "python-library"
     ],
     "participation": [
-        0,
-        8,
+        3,
         0,
         6,
         0,
@@ -52,8 +51,8 @@
         0,
         2,
         3,
-        3,
-        11,
+        10,
+        4,
         7,
         0,
         0,
@@ -83,8 +82,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         0,
         0,
         0,
@@ -92,10 +91,11 @@
         9,
         0,
         0,
-        0
+        0,
+        56
     ],
-    "commits_last_year": 70,
-    "latest_tag": "v0.43.3",
+    "commits_last_year": 121,
+    "latest_tag": "v0.46.2",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -107,7 +107,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 3,
-    "tags_count": 112,
+    "tags_count": 117,
     "open_issues": {
         "labels": [
             "documentation"

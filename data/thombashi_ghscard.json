@@ -1,6 +1,6 @@
 {
     "id": "thombashi/ghscard",
-    "fetched_at": "2020-02-03T22:38:56",
+    "fetched_at": "2020-02-13T00:15:25",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/ghscard",
     "name": "ghscard",
-    "updated_at": "2020-01-13T09:35:20",
+    "updated_at": "2020-02-06T18:43:03",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -37,7 +37,7 @@
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": "https://ghscard.rtfd.io/",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "topics": [
         "github",
         "github-card",
@@ -46,9 +46,8 @@
         "widget"
     ],
     "participation": [
-        0,
         24,
-        5,
+        0,
         0,
         0,
         0,
@@ -94,12 +93,13 @@
         0,
         0,
         1,
-        42,
-        8,
+        50,
+        0,
+        0,
         0,
         0
     ],
-    "commits_last_year": 108,
+    "commits_last_year": 103,
     "latest_tag": "v0.4.1",
     "branches_count": 1,
     "pulls_count": 0,

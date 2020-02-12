@@ -1,6 +1,6 @@
 {
     "id": "thombashi/sqliteschema",
-    "fetched_at": "2020-02-03T22:39:21",
+    "fetched_at": "2020-02-13T00:15:51",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/sqliteschema",
     "name": "sqliteschema",
-    "updated_at": "2020-01-03T15:48:43",
+    "updated_at": "2020-02-11T11:05:13",
     "forks_count": 2,
     "has_issues": true,
     "has_wiki": false,
@@ -22,9 +22,9 @@
             "Shell"
         ],
         "data": [
-            56791,
-            935,
-            320
+            54627,
+            647,
+            265
         ]
     },
     "languages_count": 3,
@@ -41,7 +41,6 @@
     ],
     "participation": [
         0,
-        4,
         20,
         4,
         0,
@@ -51,9 +50,9 @@
         0,
         0,
         5,
-        0,
-        13,
-        9,
+        4,
+        11,
+        7,
         0,
         0,
         0,
@@ -91,10 +90,11 @@
         0,
         0,
         0,
-        0
+        0,
+        39
     ],
-    "commits_last_year": 62,
-    "latest_tag": "v0.16.2",
+    "commits_last_year": 97,
+    "latest_tag": "v0.17.2",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -106,7 +106,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 57,
+    "tags_count": 60,
     "open_issues": {
         "labels": [],
         "data": []

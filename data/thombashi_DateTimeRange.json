@@ -1,6 +1,6 @@
 {
     "id": "thombashi/DateTimeRange",
-    "fetched_at": "2020-02-03T22:39:03",
+    "fetched_at": "2020-02-13T00:15:32",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -41,7 +41,6 @@
         "time-range"
     ],
     "participation": [
-        0,
         11,
         0,
         0,
@@ -52,8 +51,8 @@
         0,
         0,
         0,
-        0,
-        7,
+        1,
+        6,
         7,
         0,
         0,
@@ -90,6 +89,7 @@
         0,
         1,
         3,
+        0,
         0,
         0,
         0

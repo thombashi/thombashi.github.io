@@ -1,6 +1,6 @@
 {
     "id": "thombashi/subprocrunner",
-    "fetched_at": "2020-02-13T00:15:53",
+    "fetched_at": "2020-02-17T01:09:52",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/subprocrunner",
     "name": "subprocrunner",
-    "updated_at": "2020-02-12T06:56:14",
+    "updated_at": "2020-02-16T09:30:04",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -22,8 +22,8 @@
             "Shell"
         ],
         "data": [
-            24848,
-            321,
+            25597,
+            322,
             265
         ]
     },
@@ -33,7 +33,7 @@
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": "https://pypi.python.org/pypi/subprocrunner",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "topics": [
         "python-library",
         "subprocess",
@@ -50,9 +50,8 @@
         0,
         0,
         0,
-        10,
-        5,
-        6,
+        13,
+        8,
         0,
         0,
         0,
@@ -91,10 +90,11 @@
         0,
         0,
         0,
-        29
+        0,
+        43
     ],
-    "commits_last_year": 68,
-    "latest_tag": "v1.0.0",
+    "commits_last_year": 82,
+    "latest_tag": "v1.1.0",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 2,
@@ -106,7 +106,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 47,
+    "tags_count": 49,
     "open_issues": {
         "labels": [],
         "data": []

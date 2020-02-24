@@ -1,6 +1,6 @@
 {
     "id": "thombashi/subprocrunner",
-    "fetched_at": "2020-02-17T01:09:52",
+    "fetched_at": "2020-02-24T19:17:10",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -40,7 +40,6 @@
         "wrapper-library"
     ],
     "participation": [
-        0,
         0,
         0,
         0,
@@ -91,7 +90,8 @@
         0,
         0,
         0,
-        43
+        43,
+        0
     ],
     "commits_last_year": 82,
     "latest_tag": "v1.1.0",

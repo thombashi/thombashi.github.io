@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pathvalidate",
-    "fetched_at": "2020-02-17T01:09:30",
+    "fetched_at": "2020-02-24T19:16:56",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -43,7 +43,6 @@
         "validation"
     ],
     "participation": [
-        2,
         0,
         0,
         22,
@@ -59,8 +58,8 @@
         0,
         0,
         0,
-        4,
-        7,
+        11,
+        0,
         0,
         0,
         0,
@@ -89,14 +88,15 @@
         0,
         0,
         64,
-        30,
-        24,
+        33,
+        21,
         0,
-        35,
-        11,
-        29
+        38,
+        12,
+        25,
+        0
     ],
-    "commits_last_year": 268,
+    "commits_last_year": 266,
     "latest_tag": "v2.2.0",
     "branches_count": 1,
     "pulls_count": 0,

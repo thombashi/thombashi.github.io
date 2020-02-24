@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2020-02-17T01:09:16",
+    "fetched_at": "2020-02-24T19:16:40",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,8 +10,8 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tcconfig",
     "name": "tcconfig",
-    "updated_at": "2020-02-16T14:29:50",
-    "forks_count": 47,
+    "updated_at": "2020-02-23T08:08:15",
+    "forks_count": 46,
     "has_issues": true,
     "has_wiki": false,
     "language": "Python",
@@ -22,7 +22,7 @@
             "Makefile"
         ],
         "data": [
-            273545,
+            272124,
             2789,
             449
         ]
@@ -30,10 +30,10 @@
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 14,
+    "open_issues_count": 13,
     "organization": {},
     "repo_homepage": "https://tcconfig.rtfd.io/",
-    "stargazers_count": 426,
+    "stargazers_count": 427,
     "topics": [
         "cli-app",
         "docker",
@@ -44,19 +44,18 @@
         "wrapper"
     ],
     "participation": [
-        0,
         10,
-        0,
         2,
-        19,
+        10,
+        9,
         0,
         0,
         11,
         3,
         0,
         0,
-        3,
         13,
+        3,
         0,
         0,
         0,
@@ -91,13 +90,14 @@
         0,
         0,
         0,
-        12,
-        28,
-        1,
-        16,
-        5
+        40,
+        0,
+        15,
+        2,
+        31,
+        9
     ],
-    "commits_last_year": 123,
+    "commits_last_year": 158,
     "latest_tag": "v0.25.1",
     "branches_count": 1,
     "pulls_count": 0,
@@ -114,12 +114,12 @@
     "open_issues": {
         "labels": [
             "enhancement",
-            "bug",
             "not set",
             "stale",
             "wontfix",
             "needs-info",
             "refactoring",
+            "bug",
             "others"
         ],
         "data": [
@@ -127,7 +127,7 @@
             2,
             2,
             2,
-            2,
+            1,
             1,
             1,
             2

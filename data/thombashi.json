@@ -1,6 +1,6 @@
 {
     "id": "thombashi",
-    "fetched_at": "2020-02-17T01:09:06",
+    "fetched_at": "2020-02-24T19:16:31",
     "data_version": 2,
     "result": "success",
     "profile_name": "Tsuyoshi Hombashi",
@@ -11,16 +11,16 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi",
     "name": "thombashi",
-    "updated_at": "2020-02-16T14:46:45",
+    "updated_at": "2020-02-24T08:12:52",
     "blog": "https://thombashi.github.io/",
     "company": null,
     "email": "tsuyoshi.hombashi@gmail.com",
-    "followers": 56,
+    "followers": 57,
     "following": 4,
     "location": "Japan",
     "public_gists": 10,
     "public_repos": 69,
-    "stars": 189,
+    "stars": 191,
     "organizations": [],
     "languages": {
         "labels": [

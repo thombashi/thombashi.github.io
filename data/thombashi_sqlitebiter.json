@@ -1,6 +1,6 @@
 {
     "id": "thombashi/sqlitebiter",
-    "fetched_at": "2020-02-24T19:16:38",
+    "fetched_at": "2020-03-02T00:54:33",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/sqlitebiter",
     "name": "sqlitebiter",
-    "updated_at": "2020-02-19T21:18:05",
+    "updated_at": "2020-03-01T15:36:54",
     "forks_count": 37,
     "has_issues": true,
     "has_wiki": false,
@@ -24,7 +24,7 @@
             "others"
         ],
         "data": [
-            130578,
+            130773,
             48848,
             3984,
             840,
@@ -37,7 +37,7 @@
     "open_issues_count": 3,
     "organization": {},
     "repo_homepage": "https://sqlitebiter.rtfd.io/",
-    "stargazers_count": 478,
+    "stargazers_count": 481,
     "topics": [
         "cli-app",
         "converter",
@@ -56,17 +56,17 @@
     ],
     "participation": [
         0,
-        0,
         4,
         21,
         5,
         0,
-        5,
-        3,
-        1,
         0,
-        17,
-        3,
+        8,
+        0,
+        1,
+        13,
+        7,
+        0,
         0,
         0,
         0,
@@ -100,15 +100,15 @@
         0,
         0,
         13,
-        0,
         29,
         0,
         0,
-        18,
-        11,
+        0,
+        22,
+        8,
         0
     ],
-    "commits_last_year": 130,
+    "commits_last_year": 131,
     "latest_tag": "v0.29.2",
     "branches_count": 1,
     "pulls_count": 0,
@@ -125,7 +125,7 @@
     "open_issues": {
         "labels": [
             "enhancement",
-            "not set"
+            "needs-info"
         ],
         "data": [
             2,

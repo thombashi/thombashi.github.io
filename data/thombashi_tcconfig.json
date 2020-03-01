@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2020-02-24T19:16:40",
+    "fetched_at": "2020-03-02T00:54:36",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tcconfig",
     "name": "tcconfig",
-    "updated_at": "2020-02-23T08:08:15",
+    "updated_at": "2020-03-01T14:11:08",
     "forks_count": 46,
     "has_issues": true,
     "has_wiki": false,
@@ -22,7 +22,7 @@
             "Makefile"
         ],
         "data": [
-            272124,
+            272700,
             2789,
             449
         ]
@@ -30,10 +30,10 @@
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 13,
+    "open_issues_count": 11,
     "organization": {},
     "repo_homepage": "https://tcconfig.rtfd.io/",
-    "stargazers_count": 427,
+    "stargazers_count": 429,
     "topics": [
         "cli-app",
         "docker",
@@ -44,18 +44,17 @@
         "wrapper"
     ],
     "participation": [
-        10,
+        0,
         2,
-        10,
-        9,
+        19,
         0,
         0,
         11,
         3,
         0,
         0,
-        13,
         3,
+        13,
         0,
         0,
         0,
@@ -90,15 +89,16 @@
         0,
         0,
         0,
-        40,
-        0,
-        15,
-        2,
-        31,
+        12,
+        28,
+        1,
+        16,
+        11,
+        20,
         9
     ],
-    "commits_last_year": 158,
-    "latest_tag": "v0.25.1",
+    "commits_last_year": 148,
+    "latest_tag": "v0.25.2",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 19,
@@ -110,27 +110,25 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 7,
-    "tags_count": 74,
+    "tags_count": 75,
     "open_issues": {
         "labels": [
             "enhancement",
             "not set",
-            "stale",
             "wontfix",
             "needs-info",
             "refactoring",
             "bug",
-            "others"
+            "help wanted"
         ],
         "data": [
             4,
             2,
             2,
-            2,
             1,
             1,
             1,
-            2
+            1
         ]
     }
 }

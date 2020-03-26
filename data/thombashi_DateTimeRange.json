@@ -1,6 +1,6 @@
 {
     "id": "thombashi/DateTimeRange",
-    "fetched_at": "2020-03-02T00:54:44",
+    "fetched_at": "2020-03-27T00:29:24",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/DateTimeRange",
     "name": "DateTimeRange",
-    "updated_at": "2020-01-20T17:21:37",
+    "updated_at": "2020-03-13T16:00:03",
     "forks_count": 5,
     "has_issues": true,
     "has_wiki": false,
@@ -30,10 +30,10 @@
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "organization": {},
     "repo_homepage": "https://datetimerange.rtfd.io/",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "topics": [
         "datetime",
         "datetime-range",
@@ -42,14 +42,11 @@
     ],
     "participation": [
         0,
-        2,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        7,
+        6,
         7,
         0,
         0,
@@ -92,9 +89,12 @@
         0,
         0,
         0,
+        0,
+        0,
+        0,
         0
     ],
-    "commits_last_year": 21,
+    "commits_last_year": 18,
     "latest_tag": "v0.6.1",
     "branches_count": 1,
     "pulls_count": 0,
@@ -109,7 +109,11 @@
     "contributors_count": 2,
     "tags_count": 29,
     "open_issues": {
-        "labels": [],
-        "data": []
+        "labels": [
+            "not set"
+        ],
+        "data": [
+            1
+        ]
     }
 }

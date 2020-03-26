@@ -1,6 +1,6 @@
 {
     "id": "thombashi/sqlitebiter",
-    "fetched_at": "2020-03-02T00:54:33",
+    "fetched_at": "2020-03-27T00:29:09",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,8 +10,8 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/sqlitebiter",
     "name": "sqlitebiter",
-    "updated_at": "2020-03-01T15:36:54",
-    "forks_count": 37,
+    "updated_at": "2020-03-23T10:59:34",
+    "forks_count": 39,
     "has_issues": true,
     "has_wiki": false,
     "language": "Python",
@@ -24,20 +24,20 @@
             "others"
         ],
         "data": [
-            130773,
+            134517,
             48848,
-            3984,
+            3985,
             840,
-            630
+            1045
         ]
     },
-    "languages_count": 5,
+    "languages_count": 6,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
     "open_issues_count": 3,
     "organization": {},
     "repo_homepage": "https://sqlitebiter.rtfd.io/",
-    "stargazers_count": 481,
+    "stargazers_count": 490,
     "topics": [
         "cli-app",
         "converter",
@@ -55,18 +55,14 @@
         "tsv"
     ],
     "participation": [
-        0,
-        4,
-        21,
         5,
         0,
-        0,
-        8,
-        0,
+        5,
+        3,
         1,
-        13,
+        10,
         7,
-        0,
+        3,
         0,
         0,
         0,
@@ -100,16 +96,20 @@
         0,
         0,
         13,
+        0,
         29,
         0,
         0,
-        0,
-        22,
-        8,
-        0
+        18,
+        11,
+        1,
+        9,
+        20,
+        5,
+        5
     ],
-    "commits_last_year": 131,
-    "latest_tag": "v0.29.2",
+    "commits_last_year": 145,
+    "latest_tag": "v0.31.0",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 24,
@@ -121,15 +121,13 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 3,
-    "tags_count": 69,
+    "tags_count": 71,
     "open_issues": {
         "labels": [
-            "enhancement",
-            "needs-info"
+            "enhancement"
         ],
         "data": [
-            2,
-            1
+            3
         ]
     }
 }

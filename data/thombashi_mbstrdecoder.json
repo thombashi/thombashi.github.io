@@ -1,6 +1,6 @@
 {
     "id": "thombashi/mbstrdecoder",
-    "fetched_at": "2020-03-27T00:29:26",
+    "fetched_at": "2020-04-04T23:22:39",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/mbstrdecoder",
     "name": "mbstrdecoder",
-    "updated_at": "2020-01-11T11:47:36",
+    "updated_at": "2020-04-04T08:58:56",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -22,8 +22,8 @@
             "Shell"
         ],
         "data": [
-            21950,
-            879,
+            20571,
+            363,
             320
         ]
     },
@@ -40,7 +40,6 @@
         "python-library"
     ],
     "participation": [
-        0,
         0,
         0,
         0,
@@ -79,8 +78,8 @@
         0,
         0,
         0,
-        0,
-        34,
+        18,
+        16,
         3,
         0,
         0,
@@ -91,10 +90,11 @@
         0,
         0,
         0,
-        0
+        0,
+        9
     ],
-    "commits_last_year": 54,
-    "latest_tag": "v0.8.4",
+    "commits_last_year": 63,
+    "latest_tag": "v1.0.0",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -106,7 +106,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 22,
+    "tags_count": 23,
     "open_issues": {
         "labels": [
             "not set"

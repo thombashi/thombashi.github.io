@@ -1,6 +1,6 @@
 {
     "id": "thombashi/thank-you-stars",
-    "fetched_at": "2020-03-27T00:29:52",
+    "fetched_at": "2020-04-04T23:23:02",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -12,8 +12,8 @@
     },
     "html_url": "https://github.com/thombashi/thank-you-stars",
     "name": "thank-you-stars",
-    "updated_at": "2020-01-11T15:36:56",
-    "forks_count": 0,
+    "updated_at": "2020-04-04T09:33:53",
+    "forks_count": 1,
     "has_issues": true,
     "has_wiki": false,
     "language": "Python",
@@ -23,23 +23,22 @@
             "Makefile"
         ],
         "data": [
-            43328,
-            689
+            41843,
+            349
         ]
     },
     "languages_count": 2,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 0,
+    "open_issues_count": 3,
     "organization": {},
     "repo_homepage": "https://pypi.org/project/thank-you-stars/",
-    "stargazers_count": 0,
+    "stargazers_count": 1,
     "topics": [
         "github-stars",
         "pypi-packages"
     ],
     "participation": [
-        0,
         0,
         0,
         0,
@@ -90,9 +89,10 @@
         0,
         0,
         0,
-        0
+        0,
+        19
     ],
-    "commits_last_year": 11,
+    "commits_last_year": 30,
     "latest_tag": "v0.0.8",
     "branches_count": 1,
     "pulls_count": 0,
@@ -104,10 +104,16 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "contributors_count": 1,
+    "contributors_count": 2,
     "tags_count": 8,
     "open_issues": {
-        "labels": [],
-        "data": []
+        "labels": [
+            "bug",
+            "not set"
+        ],
+        "data": [
+            2,
+            1
+        ]
     }
 }

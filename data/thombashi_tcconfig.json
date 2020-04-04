@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2020-03-27T00:29:12",
+    "fetched_at": "2020-04-04T23:22:27",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tcconfig",
     "name": "tcconfig",
-    "updated_at": "2020-03-22T10:48:30",
+    "updated_at": "2020-04-04T05:14:41",
     "forks_count": 46,
     "has_issues": true,
     "has_wiki": false,
@@ -30,7 +30,7 @@
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "organization": {},
     "repo_homepage": "https://tcconfig.rtfd.io/",
     "stargazers_count": 436,
@@ -44,7 +44,6 @@
         "wrapper"
     ],
     "participation": [
-        0,
         0,
         11,
         3,
@@ -85,14 +84,15 @@
         0,
         0,
         0,
-        0,
-        40,
+        11,
+        29,
         0,
         15,
-        7,
-        26,
+        10,
+        23,
         9,
         4,
+        0,
         0,
         0,
         0
@@ -115,13 +115,11 @@
         "labels": [
             "enhancement",
             "refactoring",
-            "stale",
             "bug",
             "help wanted"
         ],
         "data": [
             4,
-            1,
             1,
             1,
             1

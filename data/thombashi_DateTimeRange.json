@@ -1,6 +1,6 @@
 {
     "id": "thombashi/DateTimeRange",
-    "fetched_at": "2020-04-04T23:22:37",
+    "fetched_at": "2020-04-13T01:29:41",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,8 +10,8 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/DateTimeRange",
     "name": "DateTimeRange",
-    "updated_at": "2020-03-31T20:35:17",
-    "forks_count": 5,
+    "updated_at": "2020-04-10T04:00:45",
+    "forks_count": 6,
     "has_issues": true,
     "has_wiki": false,
     "language": "Python",
@@ -33,7 +33,7 @@
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": "https://datetimerange.rtfd.io/",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "topics": [
         "datetime",
         "datetime-range",
@@ -43,10 +43,9 @@
     "participation": [
         0,
         0,
-        0,
+        7,
         7,
         0,
-        7,
         0,
         0,
         0,
@@ -80,7 +79,6 @@
         0,
         0,
         1,
-        0,
         3,
         0,
         0,
@@ -92,7 +90,9 @@
         0,
         0,
         0,
-        16
+        0,
+        16,
+        0
     ],
     "commits_last_year": 34,
     "latest_tag": "v1.0.0",

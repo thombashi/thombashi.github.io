@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pytablewriter",
-    "fetched_at": "2020-04-04T23:22:48",
+    "fetched_at": "2020-04-13T01:29:52",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pytablewriter",
     "name": "pytablewriter",
-    "updated_at": "2020-04-04T02:55:59",
+    "updated_at": "2020-04-12T15:58:50",
     "forks_count": 30,
     "has_issues": true,
     "has_wiki": false,
@@ -22,18 +22,18 @@
             "Shell"
         ],
         "data": [
-            418077,
-            920,
+            443553,
+            942,
             243
         ]
     },
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 5,
+    "open_issues_count": 3,
     "organization": {},
     "repo_homepage": "https://pytablewriter.rtfd.io/",
-    "stargazers_count": 358,
+    "stargazers_count": 360,
     "topics": [
         "csv",
         "elasticsearch",
@@ -57,12 +57,11 @@
         "tsv"
     ],
     "participation": [
-        0,
-        0,
         8,
         0,
-        10,
-        9,
+        0,
+        19,
+        0,
         0,
         0,
         0,
@@ -99,19 +98,20 @@
         0,
         20,
         0,
-        0,
-        17,
-        22,
-        35,
+        1,
+        20,
+        19,
+        34,
         16,
         0,
         0,
+        11,
+        4,
         0,
-        14,
-        0
+        16
     ],
-    "commits_last_year": 168,
-    "latest_tag": "v0.50.0",
+    "commits_last_year": 185,
+    "latest_tag": "v0.51.0",
     "branches_count": 1,
     "pulls_count": 1,
     "subscribers_count": 13,
@@ -123,15 +123,13 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 2,
-    "tags_count": 99,
+    "tags_count": 100,
     "open_issues": {
         "labels": [
-            "enhancement",
             "not set",
-            "needs-info"
+            "enhancement"
         ],
         "data": [
-            2,
             2,
             1
         ]

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/sqlitebiter",
-    "fetched_at": "2020-04-04T23:22:25",
+    "fetched_at": "2020-04-13T01:29:30",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/sqlitebiter",
     "name": "sqlitebiter",
-    "updated_at": "2020-04-03T16:03:41",
+    "updated_at": "2020-04-11T07:07:37",
     "forks_count": 40,
     "has_issues": true,
     "has_wiki": false,
@@ -24,20 +24,20 @@
             "others"
         ],
         "data": [
-            134376,
+            142948,
             48848,
             3985,
-            862,
+            906,
             1045
         ]
     },
     "languages_count": 6,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "organization": {},
     "repo_homepage": "https://sqlitebiter.rtfd.io/",
-    "stargazers_count": 495,
+    "stargazers_count": 500,
     "topics": [
         "cli-app",
         "converter",
@@ -55,13 +55,12 @@
         "tsv"
     ],
     "participation": [
+        8,
         0,
-        5,
-        3,
         1,
-        10,
+        13,
         7,
-        3,
+        0,
         0,
         0,
         0,
@@ -95,21 +94,22 @@
         0,
         0,
         13,
-        0,
         29,
         0,
         0,
-        18,
-        12,
+        0,
+        22,
+        8,
+        0,
+        11,
+        23,
+        5,
         0,
         9,
-        24,
-        1,
-        5,
-        9
+        13
     ],
-    "commits_last_year": 149,
-    "latest_tag": "v0.31.1",
+    "commits_last_year": 162,
+    "latest_tag": "v0.32.0",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 24,
@@ -121,13 +121,13 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 3,
-    "tags_count": 72,
+    "tags_count": 73,
     "open_issues": {
         "labels": [
             "enhancement"
         ],
         "data": [
-            3
+            2
         ]
     }
 }

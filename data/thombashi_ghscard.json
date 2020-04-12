@@ -1,6 +1,6 @@
 {
     "id": "thombashi/ghscard",
-    "fetched_at": "2020-04-04T23:22:30",
+    "fetched_at": "2020-04-13T01:29:35",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/ghscard",
     "name": "ghscard",
-    "updated_at": "2020-02-15T15:09:31",
+    "updated_at": "2020-04-11T04:33:34",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -25,10 +25,10 @@
         ],
         "data": [
             834943,
-            76458,
-            45386,
+            76470,
+            45304,
             3588,
-            1959
+            1774
         ]
     },
     "languages_count": 7,
@@ -46,11 +46,9 @@
         "widget"
     ],
     "participation": [
+        8,
         0,
-        3,
-        5,
         6,
-        0,
         6,
         0,
         0,
@@ -86,8 +84,8 @@
         0,
         0,
         1,
-        50,
-        0,
+        21,
+        29,
         0,
         0,
         2,
@@ -97,10 +95,12 @@
         0,
         0,
         0,
-        0
+        0,
+        17,
+        5
     ],
-    "commits_last_year": 80,
-    "latest_tag": "v0.4.1",
+    "commits_last_year": 102,
+    "latest_tag": "v0.5.0",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 2,
@@ -112,7 +112,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 28,
+    "tags_count": 29,
     "open_issues": {
         "labels": [],
         "data": []

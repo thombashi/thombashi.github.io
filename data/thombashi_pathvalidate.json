@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pathvalidate",
-    "fetched_at": "2020-04-13T01:29:46",
+    "fetched_at": "2020-05-06T01:32:01",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pathvalidate",
     "name": "pathvalidate",
-    "updated_at": "2020-04-09T13:07:25",
+    "updated_at": "2020-05-03T15:38:46",
     "forks_count": 6,
     "has_issues": true,
     "has_wiki": false,
@@ -22,8 +22,8 @@
             "Shell"
         ],
         "data": [
-            104528,
-            432,
+            106455,
+            470,
             204
         ]
     },
@@ -43,16 +43,13 @@
         "validation"
     ],
     "participation": [
-        0,
-        1,
-        27,
         8,
         4,
         0,
         0,
         0,
-        4,
-        7,
+        11,
+        0,
         0,
         0,
         0,
@@ -81,12 +78,12 @@
         0,
         0,
         64,
-        30,
-        24,
+        52,
+        2,
         0,
-        35,
-        11,
-        29,
+        38,
+        15,
+        22,
         0,
         0,
         0,
@@ -94,10 +91,13 @@
         10,
         17,
         0,
-        0
+        0,
+        1,
+        7,
+        6
     ],
-    "commits_last_year": 271,
-    "latest_tag": "v2.2.2",
+    "commits_last_year": 257,
+    "latest_tag": "v2.3.0",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -109,7 +109,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 3,
-    "tags_count": 64,
+    "tags_count": 65,
     "open_issues": {
         "labels": [],
         "data": []

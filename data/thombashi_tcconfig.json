@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2020-04-13T01:29:32",
+    "fetched_at": "2020-05-06T01:31:47",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tcconfig",
     "name": "tcconfig",
-    "updated_at": "2020-04-10T10:28:33",
+    "updated_at": "2020-04-29T00:57:40",
     "forks_count": 47,
     "has_issues": true,
     "has_wiki": false,
@@ -22,18 +22,18 @@
             "Makefile"
         ],
         "data": [
-            272700,
-            2789,
-            449
+            272810,
+            2790,
+            885
         ]
     },
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "organization": {},
     "repo_homepage": "https://tcconfig.rtfd.io/",
-    "stargazers_count": 438,
+    "stargazers_count": 444,
     "topics": [
         "cli-app",
         "docker",
@@ -44,11 +44,8 @@
         "wrapper"
     ],
     "participation": [
-        3,
-        0,
-        0,
-        3,
         13,
+        3,
         0,
         0,
         0,
@@ -83,21 +80,24 @@
         0,
         0,
         0,
-        12,
-        28,
-        1,
-        16,
-        11,
-        20,
+        40,
+        0,
+        15,
+        2,
+        31,
         9,
         4,
         0,
         0,
         0,
         0,
+        0,
+        0,
+        2,
+        7,
         0
     ],
-    "commits_last_year": 120,
+    "commits_last_year": 126,
     "latest_tag": "v0.25.2",
     "branches_count": 1,
     "pulls_count": 0,
@@ -114,12 +114,14 @@
     "open_issues": {
         "labels": [
             "enhancement",
+            "not set",
             "refactoring",
             "bug",
             "help wanted"
         ],
         "data": [
             4,
+            1,
             1,
             1,
             1

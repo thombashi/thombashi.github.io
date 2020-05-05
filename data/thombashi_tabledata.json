@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tabledata",
-    "fetched_at": "2020-04-13T01:30:01",
+    "fetched_at": "2020-05-06T01:32:17",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tabledata",
     "name": "tabledata",
-    "updated_at": "2020-03-29T15:45:15",
+    "updated_at": "2020-04-15T04:54:04",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -22,8 +22,8 @@
             "Shell"
         ],
         "data": [
-            52945,
-            898,
+            52956,
+            947,
             265
         ]
     },
@@ -39,10 +39,7 @@
         "table-data"
     ],
     "participation": [
-        4,
-        0,
-        10,
-        9,
+        7,
         0,
         0,
         0,
@@ -81,19 +78,22 @@
         0,
         0,
         0,
-        17,
-        31,
+        40,
+        8,
         0,
         0,
         0,
         0,
         24,
-        0,
         5,
+        0,
+        0,
+        7,
+        0,
         0
     ],
-    "commits_last_year": 101,
-    "latest_tag": "v1.1.1",
+    "commits_last_year": 92,
+    "latest_tag": "v1.1.2",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -105,7 +105,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 52,
+    "tags_count": 53,
     "open_issues": {
         "labels": [],
         "data": []

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pytablereader",
-    "fetched_at": "2020-04-13T01:29:50",
+    "fetched_at": "2020-05-06T01:32:06",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pytablereader",
     "name": "pytablereader",
-    "updated_at": "2020-04-05T13:29:34",
+    "updated_at": "2020-04-15T16:47:03",
     "forks_count": 6,
     "has_issues": true,
     "has_wiki": false,
@@ -23,9 +23,9 @@
             "Shell"
         ],
         "data": [
-            296122,
+            297590,
             71819,
-            818,
+            861,
             265
         ]
     },
@@ -35,7 +35,7 @@
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": "https://pytablereader.rtfd.io/",
-    "stargazers_count": 52,
+    "stargazers_count": 54,
     "topics": [
         "csv",
         "excel",
@@ -54,10 +54,7 @@
         "tsv"
     ],
     "participation": [
-        3,
-        0,
-        4,
-        16,
+        7,
         0,
         0,
         0,
@@ -91,24 +88,27 @@
         0,
         0,
         0,
-        0,
-        29,
-        9,
+        27,
+        11,
         0,
         0,
         4,
-        28,
+        15,
+        13,
         0,
         9,
-        3,
-        10,
+        8,
+        5,
         2,
         0,
-        1,
-        14
+        15,
+        0,
+        6,
+        0,
+        0
     ],
-    "commits_last_year": 132,
-    "latest_tag": "v0.29.0",
+    "commits_last_year": 122,
+    "latest_tag": "v0.30.0",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 5,
@@ -120,7 +120,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 3,
-    "tags_count": 103,
+    "tags_count": 104,
     "open_issues": {
         "labels": [],
         "data": []

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pathvalidate",
-    "fetched_at": "2020-05-06T01:32:01",
+    "fetched_at": "2020-05-27T23:57:22",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,8 +10,8 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pathvalidate",
     "name": "pathvalidate",
-    "updated_at": "2020-05-03T15:38:46",
-    "forks_count": 6,
+    "updated_at": "2020-05-23T16:09:49",
+    "forks_count": 7,
     "has_issues": true,
     "has_wiki": false,
     "language": "Python",
@@ -22,7 +22,7 @@
             "Shell"
         ],
         "data": [
-            106455,
+            106953,
             470,
             204
         ]
@@ -33,7 +33,7 @@
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": "https://pathvalidate.rtfd.io/",
-    "stargazers_count": 47,
+    "stargazers_count": 50,
     "topics": [
         "filename",
         "filepath",
@@ -43,9 +43,6 @@
         "validation"
     ],
     "participation": [
-        8,
-        4,
-        0,
         0,
         0,
         11,
@@ -94,13 +91,16 @@
         0,
         1,
         7,
+        6,
+        0,
+        1,
         6
     ],
-    "commits_last_year": 257,
+    "commits_last_year": 252,
     "latest_tag": "v2.3.0",
     "branches_count": 1,
     "pulls_count": 0,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -108,7 +108,7 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "contributors_count": 3,
+    "contributors_count": 4,
     "tags_count": 65,
     "open_issues": {
         "labels": [],

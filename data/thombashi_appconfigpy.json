@@ -1,6 +1,6 @@
 {
     "id": "thombashi/appconfigpy",
-    "fetched_at": "2020-05-06T01:31:52",
+    "fetched_at": "2020-05-27T23:57:13",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -38,9 +38,6 @@
         "python-library"
     ],
     "participation": [
-        4,
-        0,
-        0,
         0,
         0,
         0,
@@ -89,9 +86,12 @@
         0,
         1,
         0,
+        0,
+        0,
+        0,
         0
     ],
-    "commits_last_year": 31,
+    "commits_last_year": 27,
     "latest_tag": "v1.0.1",
     "branches_count": 1,
     "pulls_count": 0,

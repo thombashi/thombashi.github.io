@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pytablereader",
-    "fetched_at": "2020-05-06T01:32:06",
+    "fetched_at": "2020-05-27T23:57:26",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -54,9 +54,6 @@
         "tsv"
     ],
     "participation": [
-        7,
-        0,
-        0,
         0,
         0,
         0,
@@ -93,8 +90,8 @@
         0,
         0,
         4,
-        15,
-        13,
+        19,
+        9,
         0,
         9,
         8,
@@ -105,9 +102,12 @@
         0,
         6,
         0,
+        0,
+        0,
+        0,
         0
     ],
-    "commits_last_year": 122,
+    "commits_last_year": 115,
     "latest_tag": "v0.30.0",
     "branches_count": 1,
     "pulls_count": 0,

@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tabledata",
-    "fetched_at": "2020-05-06T01:32:17",
+    "fetched_at": "2020-05-27T23:57:39",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -39,9 +39,6 @@
         "table-data"
     ],
     "participation": [
-        7,
-        0,
-        0,
         0,
         0,
         0,
@@ -78,8 +75,8 @@
         0,
         0,
         0,
-        40,
-        8,
+        42,
+        6,
         0,
         0,
         0,
@@ -90,9 +87,12 @@
         0,
         7,
         0,
+        0,
+        0,
+        0,
         0
     ],
-    "commits_last_year": 92,
+    "commits_last_year": 85,
     "latest_tag": "v1.1.2",
     "branches_count": 1,
     "pulls_count": 0,

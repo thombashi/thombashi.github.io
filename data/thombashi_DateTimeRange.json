@@ -1,6 +1,6 @@
 {
     "id": "thombashi/DateTimeRange",
-    "fetched_at": "2020-05-06T01:31:57",
+    "fetched_at": "2020-05-27T23:57:18",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/DateTimeRange",
     "name": "DateTimeRange",
-    "updated_at": "2020-05-05T11:39:30",
+    "updated_at": "2020-05-10T06:34:45",
     "forks_count": 6,
     "has_issues": true,
     "has_wiki": false,
@@ -22,7 +22,7 @@
             "Shell"
         ],
         "data": [
-            62596,
+            62687,
             437,
             265
         ]
@@ -41,9 +41,6 @@
         "time-range"
     ],
     "participation": [
-        7,
-        0,
-        0,
         0,
         0,
         0,
@@ -87,14 +84,17 @@
         0,
         0,
         0,
-        0,
         16,
         0,
         0,
         0,
-        4
+        0,
+        4,
+        11,
+        0,
+        0
     ],
-    "commits_last_year": 31,
+    "commits_last_year": 35,
     "latest_tag": "v1.0.0",
     "branches_count": 1,
     "pulls_count": 0,

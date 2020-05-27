@@ -1,6 +1,6 @@
 {
     "id": "thombashi/allpairspy",
-    "fetched_at": "2020-05-06T01:32:26",
+    "fetched_at": "2020-05-27T23:57:48",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/allpairspy",
     "name": "allpairspy",
-    "updated_at": "2020-04-30T11:37:17",
+    "updated_at": "2020-05-27T14:20:30",
     "forks_count": 22,
     "has_issues": true,
     "has_wiki": false,
@@ -22,18 +22,18 @@
             "Shell"
         ],
         "data": [
-            23301,
-            696,
+            23438,
+            779,
             265
         ]
     },
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "organization": {},
     "repo_homepage": null,
-    "stargazers_count": 88,
+    "stargazers_count": 90,
     "topics": [
         "allpairs",
         "pairwise",
@@ -41,16 +41,13 @@
         "testing"
     ],
     "participation": [
-        15,
-        0,
-        0,
-        0,
         0,
         0,
         0,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -92,12 +89,15 @@
         0,
         0,
         0,
+        0,
+        0,
+        0,
         0
     ],
-    "commits_last_year": 41,
+    "commits_last_year": 26,
     "latest_tag": "v2.5.0",
     "branches_count": 1,
-    "pulls_count": 1,
+    "pulls_count": 0,
     "subscribers_count": 10,
     "license": {
         "key": "mit",
@@ -113,7 +113,7 @@
             "not set"
         ],
         "data": [
-            3
+            2
         ]
     }
 }

@@ -11,26 +11,21 @@ targets=(
 
     "thombashi/ghscard"
 
-    "thombashi/appconfigpy"
     "thombashi/DataProperty"
     "thombashi/DateTimeRange"
-    "thombashi/mbstrdecoder"
     "thombashi/pathvalidate"
     "thombashi/pingparsing"
     "thombashi/pytablereader"
     "thombashi/pytablewriter"
+    "thombashi/pytest-md-report"
     "thombashi/SimpleSQLite"
     "thombashi/sqliteschema"
     "thombashi/subprocrunner"
-    "thombashi/tabledata"
-    "thombashi/tblfaker"
-    "thombashi/thank-you-stars"
+    #"thombashi/tabledata"
+    #"thombashi/tblfaker"
     "thombashi/typepy"
 
     "thombashi/allpairspy"
-    "thombashi/NFStest"
-
-    "thombashi/PythonExamples"
 )
 
 command="${base_command} -o ${output_dir} ${targets[@]}"

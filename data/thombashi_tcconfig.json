@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2020-07-26T01:47:45",
+    "fetched_at": "2020-07-28T23:07:54",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -68,12 +68,11 @@
         0,
         0,
         0,
-        11,
-        29,
+        40,
         0,
         15,
-        10,
-        23,
+        2,
+        31,
         9,
         4,
         0,
@@ -87,6 +86,7 @@
         0,
         5,
         0,
+        0,
         2,
         0,
         0,
@@ -94,10 +94,10 @@
         0,
         0,
         0,
-        0,
-        41
+        11,
+        31
     ],
-    "commits_last_year": 158,
+    "commits_last_year": 159,
     "latest_tag": "v0.26.0",
     "branches_count": 1,
     "pulls_count": 1,
@@ -115,18 +115,14 @@
         "labels": [
             "enhancement",
             "needs-info",
-            "needs-triage",
-            "not set",
             "question",
             "refactoring",
             "help wanted"
         ],
         "data": [
             4,
+            3,
             2,
-            1,
-            1,
-            1,
             1,
             1
         ]

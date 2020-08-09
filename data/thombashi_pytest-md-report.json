@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pytest-md-report",
-    "fetched_at": "2020-07-28T23:08:18",
+    "fetched_at": "2020-08-10T00:44:35",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pytest-md-report",
     "name": "pytest-md-report",
-    "updated_at": "2020-05-23T14:31:16",
+    "updated_at": "2020-08-09T13:40:05",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -22,7 +22,7 @@
             "Shell"
         ],
         "data": [
-            24072,
+            25447,
             755,
             204
         ]
@@ -33,7 +33,7 @@
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": null,
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "topics": [
         "markdown",
         "pytest",
@@ -78,10 +78,8 @@
         0,
         0,
         0,
-        0,
-        0,
-        68,
-        3,
+        59,
+        12,
         6,
         0,
         0,
@@ -91,10 +89,12 @@
         0,
         0,
         0,
-        0
+        0,
+        6,
+        8
     ],
-    "commits_last_year": 77,
-    "latest_tag": "v0.0.8",
+    "commits_last_year": 91,
+    "latest_tag": "v0.0.12",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -106,7 +106,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 8,
+    "tags_count": 12,
     "open_issues": {
         "labels": [],
         "data": []

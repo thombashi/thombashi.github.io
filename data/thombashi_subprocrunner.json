@@ -1,6 +1,6 @@
 {
     "id": "thombashi/subprocrunner",
-    "fetched_at": "2020-07-28T23:08:27",
+    "fetched_at": "2020-08-10T00:44:44",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/subprocrunner",
     "name": "subprocrunner",
-    "updated_at": "2020-04-18T14:46:02",
+    "updated_at": "2020-08-02T06:46:31",
     "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
@@ -23,7 +23,7 @@
         ],
         "data": [
             25963,
-            347,
+            374,
             265
         ]
     },
@@ -33,15 +33,13 @@
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": "https://pypi.python.org/pypi/subprocrunner",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "topics": [
         "python-library",
         "subprocess",
         "wrapper-library"
     ],
     "participation": [
-        0,
-        0,
         0,
         0,
         0,
@@ -91,9 +89,11 @@
         0,
         0,
         0,
-        0
+        0,
+        0,
+        9
     ],
-    "commits_last_year": 77,
+    "commits_last_year": 86,
     "latest_tag": "v1.2.1",
     "branches_count": 1,
     "pulls_count": 0,

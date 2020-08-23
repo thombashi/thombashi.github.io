@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2020-08-10T00:44:07",
+    "fetched_at": "2020-08-23T10:12:46",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tcconfig",
     "name": "tcconfig",
-    "updated_at": "2020-08-07T05:38:10",
+    "updated_at": "2020-08-16T15:06:34",
     "forks_count": 54,
     "has_issues": true,
     "has_wiki": false,
@@ -30,10 +30,10 @@
     "languages_count": 3,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 10,
+    "open_issues_count": 8,
     "organization": {},
     "repo_homepage": "https://tcconfig.rtfd.io/",
-    "stargazers_count": 457,
+    "stargazers_count": 459,
     "topics": [
         "cli-app",
         "docker",
@@ -44,8 +44,6 @@
         "wrapper"
     ],
     "participation": [
-        0,
-        0,
         0,
         0,
         0,
@@ -95,9 +93,11 @@
         0,
         42,
         4,
-        0
+        0,
+        0,
+        4
     ],
-    "commits_last_year": 163,
+    "commits_last_year": 167,
     "latest_tag": "v0.26.0",
     "branches_count": 1,
     "pulls_count": 1,
@@ -113,17 +113,15 @@
     "tags_count": 77,
     "open_issues": {
         "labels": [
-            "needs-info",
             "enhancement",
             "call-for-opinion",
-            "question",
-            "stale",
+            "needs-info",
+            "bug",
             "refactoring",
             "help wanted"
         ],
         "data": [
-            4,
-            4,
+            5,
             1,
             1,
             1,

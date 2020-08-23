@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pytablewriter",
-    "fetched_at": "2020-08-10T00:44:28",
+    "fetched_at": "2020-08-23T10:13:11",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pytablewriter",
     "name": "pytablewriter",
-    "updated_at": "2020-08-07T21:41:13",
+    "updated_at": "2020-08-22T15:45:31",
     "forks_count": 30,
     "has_issues": true,
     "has_wiki": false,
@@ -22,9 +22,9 @@
             "Shell"
         ],
         "data": [
-            558242,
+            569338,
             958,
-            372
+            243
         ]
     },
     "languages_count": 3,
@@ -33,7 +33,7 @@
     "open_issues_count": 1,
     "organization": {},
     "repo_homepage": "https://pytablewriter.rtfd.io/",
-    "stargazers_count": 377,
+    "stargazers_count": 378,
     "topics": [
         "csv",
         "elasticsearch",
@@ -57,8 +57,6 @@
         "tsv"
     ],
     "participation": [
-        0,
-        0,
         0,
         0,
         0,
@@ -108,10 +106,12 @@
         0,
         4,
         13,
-        0
+        0,
+        9,
+        40
     ],
-    "commits_last_year": 320,
-    "latest_tag": "v0.55.0",
+    "commits_last_year": 369,
+    "latest_tag": "v0.57.0",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 14,
@@ -123,7 +123,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 3,
-    "tags_count": 104,
+    "tags_count": 107,
     "open_issues": {
         "labels": [
             "enhancement"

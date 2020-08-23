@@ -1,6 +1,6 @@
 {
     "id": "thombashi/sqliteschema",
-    "fetched_at": "2020-08-10T00:44:42",
+    "fetched_at": "2020-08-23T10:13:22",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -58,8 +58,6 @@
         0,
         0,
         0,
-        0,
-        0,
         2,
         0,
         0,
@@ -91,7 +89,9 @@
         0,
         0,
         0,
-        16
+        16,
+        0,
+        0
     ],
     "commits_last_year": 85,
     "latest_tag": "v1.0.3",

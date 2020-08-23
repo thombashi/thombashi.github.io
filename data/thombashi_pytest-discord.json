@@ -1,44 +1,41 @@
 {
-    "id": "thombashi/allpairspy",
-    "fetched_at": "2020-08-23T10:13:31",
+    "id": "thombashi/pytest-discord",
+    "fetched_at": "2020-08-23T10:13:17",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
     "card_type": "Repository",
-    "created_at": "2017-01-20T23:35:40",
-    "description": "A python library for test combinations generator. The generator allows one to create a set of tests using \"pairwise combinations\" method, reducing a number of combinations of variables into a lesser set that covers most situations.",
+    "created_at": "2020-08-10T14:24:47",
+    "description": "A pytest plugin to notify test results to a Discord channel.",
     "emojis": {},
-    "html_url": "https://github.com/thombashi/allpairspy",
-    "name": "allpairspy",
-    "updated_at": "2020-08-21T18:32:28",
-    "forks_count": 23,
+    "html_url": "https://github.com/thombashi/pytest-discord",
+    "name": "pytest-discord",
+    "updated_at": "2020-08-16T09:47:25",
+    "forks_count": 0,
     "has_issues": true,
     "has_wiki": false,
     "language": "Python",
     "languages": {
         "labels": [
             "Python",
-            "Makefile",
-            "Shell"
+            "Makefile"
         ],
         "data": [
-            23075,
-            779,
-            265
+            26062,
+            323
         ]
     },
-    "languages_count": 3,
+    "languages_count": 2,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "organization": {},
     "repo_homepage": null,
-    "stargazers_count": 108,
+    "stargazers_count": 3,
     "topics": [
-        "allpairs",
-        "pairwise",
-        "python-library",
-        "testing"
+        "discord",
+        "pytest",
+        "pytest-plugin"
     ],
     "participation": [
         0,
@@ -59,13 +56,6 @@
         0,
         0,
         0,
-        3,
-        0,
-        0,
-        17,
-        0,
-        0,
-        5,
         0,
         0,
         0,
@@ -80,7 +70,6 @@
         0,
         0,
         0,
-        17,
         0,
         0,
         0,
@@ -88,17 +77,25 @@
         0,
         0,
         0,
-        3,
-        1,
         0,
         0,
-        0
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        45,
+        1
     ],
     "commits_last_year": 46,
-    "latest_tag": "v2.5.0",
-    "branches_count": 1,
+    "latest_tag": "v0.0.5",
+    "branches_count": 2,
     "pulls_count": 0,
-    "subscribers_count": 11,
+    "subscribers_count": 1,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -106,14 +103,10 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "contributors_count": 2,
-    "tags_count": 9,
+    "contributors_count": 1,
+    "tags_count": 5,
     "open_issues": {
-        "labels": [
-            "not set"
-        ],
-        "data": [
-            2
-        ]
+        "labels": [],
+        "data": []
     }
 }

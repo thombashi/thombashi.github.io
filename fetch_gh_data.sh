@@ -18,6 +18,7 @@ targets=(
     "thombashi/pytablereader"
     "thombashi/pytablewriter"
     "thombashi/pytest-md-report"
+    "thombashi/pytest-discord"
     "thombashi/SimpleSQLite"
     "thombashi/sqliteschema"
     "thombashi/subprocrunner"

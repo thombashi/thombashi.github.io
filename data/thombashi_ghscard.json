@@ -1,6 +1,6 @@
 {
     "id": "thombashi/ghscard",
-    "fetched_at": "2020-08-10T00:44:10",
+    "fetched_at": "2020-08-23T10:12:49",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -64,8 +64,6 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         21,
         29,
@@ -97,7 +95,9 @@
         0,
         13,
         4,
-        5
+        5,
+        0,
+        0
     ],
     "commits_last_year": 104,
     "latest_tag": "v0.5.3",

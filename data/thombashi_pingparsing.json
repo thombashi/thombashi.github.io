@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pingparsing",
-    "fetched_at": "2020-08-10T00:44:21",
+    "fetched_at": "2020-08-23T10:13:03",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -62,8 +62,6 @@
         0,
         0,
         0,
-        0,
-        0,
         21,
         3,
         0,
@@ -95,9 +93,11 @@
         0,
         0,
         5,
-        1
+        1,
+        10,
+        0
     ],
-    "commits_last_year": 158,
+    "commits_last_year": 168,
     "latest_tag": "v1.1.0",
     "branches_count": 1,
     "pulls_count": 0,

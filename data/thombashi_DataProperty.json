@@ -1,6 +1,6 @@
 {
     "id": "thombashi/DataProperty",
-    "fetched_at": "2020-08-10T00:44:13",
+    "fetched_at": "2020-08-23T10:12:52",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/DataProperty",
     "name": "DataProperty",
-    "updated_at": "2020-08-03T20:34:50",
+    "updated_at": "2020-08-21T21:09:59",
     "forks_count": 5,
     "has_issues": true,
     "has_wiki": false,
@@ -41,8 +41,6 @@
         "python-library"
     ],
     "participation": [
-        0,
-        0,
         0,
         0,
         0,
@@ -92,9 +90,11 @@
         0,
         0,
         0,
-        7
+        7,
+        0,
+        1
     ],
-    "commits_last_year": 152,
+    "commits_last_year": 153,
     "latest_tag": "v0.50.0",
     "branches_count": 1,
     "pulls_count": 0,

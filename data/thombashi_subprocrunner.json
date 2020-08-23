@@ -1,6 +1,6 @@
 {
     "id": "thombashi/subprocrunner",
-    "fetched_at": "2020-08-10T00:44:44",
+    "fetched_at": "2020-08-23T10:13:25",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
@@ -58,8 +58,6 @@
         0,
         0,
         0,
-        0,
-        0,
         16,
         2,
         0,
@@ -91,7 +89,9 @@
         0,
         0,
         0,
-        9
+        9,
+        0,
+        0
     ],
     "commits_last_year": 86,
     "latest_tag": "v1.2.1",

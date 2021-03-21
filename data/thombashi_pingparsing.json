@@ -1,9 +1,9 @@
 {
     "id": "thombashi/pingparsing",
-    "fetched_at": "2020-08-23T10:13:03",
+    "fetched_at": "2021-03-21T23:01:37",
     "data_version": 2,
     "result": "success",
-    "avatar_url": "https://avatars0.githubusercontent.com/u/15517661?v=4",
+    "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=4",
     "card_type": "Repository",
     "created_at": "2016-03-05T03:19:19",
     "description": "pingparsing is a CLI-tool/Python-library parser and transmitter for ping command :arrow_right_hook:",
@@ -12,7 +12,7 @@
     },
     "html_url": "https://github.com/thombashi/pingparsing",
     "name": "pingparsing",
-    "updated_at": "2020-08-09T15:38:55",
+    "updated_at": "2021-03-20T10:51:52",
     "forks_count": 9,
     "has_issues": true,
     "has_wiki": false,
@@ -20,22 +20,20 @@
     "languages": {
         "labels": [
             "Python",
-            "Makefile",
-            "Shell"
+            "Makefile"
         ],
         "data": [
-            105083,
-            558,
-            265
+            108705,
+            545
         ]
     },
-    "languages_count": 3,
+    "languages_count": 2,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 3,
+    "open_issues_count": 5,
     "organization": {},
     "repo_homepage": "https://pingparsing.rtfd.io/",
-    "stargazers_count": 44,
+    "stargazers_count": 54,
     "topics": [
         "cli-app",
         "network",
@@ -44,36 +42,6 @@
         "python-library"
     ],
     "participation": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        21,
-        3,
-        0,
-        0,
-        0,
-        32,
-        22,
-        8,
-        31,
-        0,
-        0,
-        3,
         0,
         7,
         0,
@@ -95,12 +63,42 @@
         5,
         1,
         10,
-        0
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        11,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
     ],
-    "commits_last_year": 168,
-    "latest_tag": "v1.1.0",
+    "commits_last_year": 68,
+    "latest_tag": "v1.2.0",
     "branches_count": 1,
-    "pulls_count": 0,
+    "pulls_count": 1,
     "subscribers_count": 4,
     "license": {
         "key": "mit",
@@ -110,13 +108,15 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 49,
+    "tags_count": 50,
     "open_issues": {
         "labels": [
-            "enhancement"
+            "enhancement",
+            "not set"
         ],
         "data": [
-            3
+            4,
+            1
         ]
     }
 }

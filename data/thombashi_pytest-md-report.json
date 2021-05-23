@@ -1,6 +1,6 @@
 {
     "id": "thombashi/pytest-md-report",
-    "fetched_at": "2021-03-21T23:01:54",
+    "fetched_at": "2021-05-23T19:01:24",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=4",
@@ -10,45 +10,34 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/pytest-md-report",
     "name": "pytest-md-report",
-    "updated_at": "2020-08-16T09:46:42",
-    "forks_count": 0,
+    "updated_at": "2021-05-04T15:10:58",
+    "forks_count": 2,
     "has_issues": true,
     "has_wiki": false,
     "language": "Python",
     "languages": {
         "labels": [
             "Python",
-            "Makefile",
-            "Shell"
+            "Makefile"
         ],
         "data": [
-            25840,
-            755,
-            204
+            25920,
+            874
         ]
     },
-    "languages_count": 3,
+    "languages_count": 2,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
     "open_issues_count": 0,
     "organization": {},
     "repo_homepage": null,
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "topics": [
         "markdown",
         "pytest",
         "pytest-plugin"
     ],
     "participation": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        59,
-        12,
-        6,
         0,
         0,
         0,
@@ -91,10 +80,19 @@
         0,
         0,
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        19,
+        0,
         0
     ],
-    "commits_last_year": 115,
-    "latest_tag": "v0.1.1",
+    "commits_last_year": 57,
+    "latest_tag": "v0.1.2",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -106,7 +104,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 16,
+    "tags_count": 17,
     "open_issues": {
         "labels": [],
         "data": []

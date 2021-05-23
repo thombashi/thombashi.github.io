@@ -1,6 +1,6 @@
 {
     "id": "thombashi/tcconfig",
-    "fetched_at": "2021-03-21T23:01:23",
+    "fetched_at": "2021-05-23T19:00:36",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=4",
@@ -10,8 +10,8 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/tcconfig",
     "name": "tcconfig",
-    "updated_at": "2021-03-20T04:48:51",
-    "forks_count": 62,
+    "updated_at": "2021-05-22T13:12:17",
+    "forks_count": 65,
     "has_issues": true,
     "has_wiki": false,
     "language": "Python",
@@ -22,9 +22,9 @@
             "Makefile"
         ],
         "data": [
-            277123,
+            277066,
             2841,
-            868
+            957
         ]
     },
     "languages_count": 3,
@@ -33,26 +33,17 @@
     "open_issues_count": 11,
     "organization": {},
     "repo_homepage": "https://tcconfig.rtfd.io/",
-    "stargazers_count": 510,
+    "stargazers_count": 534,
     "topics": [
-        "cli-app",
-        "docker",
         "linux",
+        "docker",
+        "wrapper",
         "network",
+        "cli-app",
         "tc",
-        "traffic-shaping",
-        "wrapper"
+        "traffic-shaping"
     ],
     "participation": [
-        0,
-        0,
-        0,
-        0,
-        2,
-        7,
-        0,
-        5,
-        0,
         2,
         0,
         0,
@@ -95,9 +86,18 @@
         0,
         0,
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        11,
+        0,
         0
     ],
-    "commits_last_year": 71,
+    "commits_last_year": 68,
     "latest_tag": "v0.26.0",
     "branches_count": 1,
     "pulls_count": 2,
@@ -115,14 +115,12 @@
         "labels": [
             "enhancement",
             "bug",
-            "needs-triage",
             "refactoring",
             "help wanted"
         ],
         "data": [
-            6,
+            7,
             3,
-            1,
             1,
             1
         ]

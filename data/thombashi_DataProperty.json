@@ -1,6 +1,6 @@
 {
     "id": "thombashi/DataProperty",
-    "fetched_at": "2021-03-21T23:01:29",
+    "fetched_at": "2021-05-23T19:00:45",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=4",
@@ -35,21 +35,12 @@
     "repo_homepage": "https://pypi.python.org/pypi/DataProperty",
     "stargazers_count": 15,
     "topics": [
-        "data",
-        "property",
         "python",
-        "python-library"
+        "data",
+        "python-library",
+        "property"
     ],
     "participation": [
-        0,
-        13,
-        0,
-        15,
-        3,
-        0,
-        5,
-        11,
-        4,
         0,
         0,
         0,
@@ -92,9 +83,18 @@
         0,
         0,
         0,
-        13
+        13,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
     ],
-    "commits_last_year": 76,
+    "commits_last_year": 25,
     "latest_tag": "v0.50.1",
     "branches_count": 1,
     "pulls_count": 0,

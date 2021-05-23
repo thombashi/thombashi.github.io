@@ -1,6 +1,6 @@
 {
     "id": "thombashi/subprocrunner",
-    "fetched_at": "2021-03-21T23:02:04",
+    "fetched_at": "2021-05-23T19:01:54",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/subprocrunner",
     "name": "subprocrunner",
-    "updated_at": "2021-03-21T10:59:26",
+    "updated_at": "2021-05-23T06:22:40",
     "forks_count": 1,
     "has_issues": true,
     "has_wiki": false,
@@ -18,37 +18,26 @@
     "languages": {
         "labels": [
             "Python",
-            "Makefile",
-            "Shell"
+            "Makefile"
         ],
         "data": [
-            25951,
-            374,
-            265
+            30347,
+            852
         ]
     },
-    "languages_count": 3,
+    "languages_count": 2,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "organization": {},
     "repo_homepage": "https://pypi.python.org/pypi/subprocrunner",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "topics": [
         "python-library",
         "subprocess",
         "wrapper-library"
     ],
     "participation": [
-        0,
-        6,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
         0,
         0,
         0,
@@ -91,10 +80,19 @@
         0,
         0,
         0,
-        0
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        14,
+        0,
+        7
     ],
-    "commits_last_year": 15,
-    "latest_tag": "v1.2.1",
+    "commits_last_year": 38,
+    "latest_tag": "v1.3.0",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 2,
@@ -106,13 +104,9 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 1,
-    "tags_count": 51,
+    "tags_count": 54,
     "open_issues": {
-        "labels": [
-            "not set"
-        ],
-        "data": [
-            1
-        ]
+        "labels": [],
+        "data": []
     }
 }

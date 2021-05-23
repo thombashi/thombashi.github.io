@@ -1,6 +1,6 @@
 {
     "id": "thombashi/sqlitebiter",
-    "fetched_at": "2021-03-21T23:01:21",
+    "fetched_at": "2021-05-23T19:00:26",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=4",
@@ -10,8 +10,8 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/sqlitebiter",
     "name": "sqlitebiter",
-    "updated_at": "2021-03-20T05:05:44",
-    "forks_count": 47,
+    "updated_at": "2021-05-15T13:31:10",
+    "forks_count": 48,
     "has_issues": true,
     "has_wiki": false,
     "language": "Python",
@@ -24,46 +24,37 @@
             "others"
         ],
         "data": [
-            146586,
+            146652,
             48848,
-            4018,
-            933,
+            3903,
+            1239,
             1045
         ]
     },
     "languages_count": 6,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "organization": {},
     "repo_homepage": "https://sqlitebiter.rtfd.io/",
-    "stargazers_count": 602,
+    "stargazers_count": 619,
     "topics": [
-        "cli-app",
-        "converter",
-        "csv",
-        "excel",
-        "google-sheets",
         "html",
+        "tsv",
+        "converter",
         "json",
-        "jsonlines",
-        "jupyter-notebook",
-        "ldjson",
-        "ltsv",
-        "ndjson",
+        "csv",
         "sqlite",
-        "tsv"
+        "excel",
+        "jupyter-notebook",
+        "google-sheets",
+        "ltsv",
+        "cli-app",
+        "ndjson",
+        "ldjson",
+        "jsonlines"
     ],
     "participation": [
-        0,
-        9,
-        13,
-        1,
-        13,
-        0,
-        0,
-        0,
-        0,
         8,
         0,
         0,
@@ -106,13 +97,22 @@
         0,
         0,
         0,
+        0,
+        0,
+        19,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
         0
     ],
-    "commits_last_year": 92,
+    "commits_last_year": 82,
     "latest_tag": "v0.34.1",
     "branches_count": 1,
     "pulls_count": 0,
-    "subscribers_count": 27,
+    "subscribers_count": 26,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -125,10 +125,12 @@
     "open_issues": {
         "labels": [
             "enhancement",
-            "needs-triage"
+            "bug",
+            "packaging"
         ],
         "data": [
-            4,
+            5,
+            1,
             1
         ]
     }

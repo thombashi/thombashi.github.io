@@ -1,6 +1,6 @@
 {
     "id": "thombashi/DataProperty",
-    "fetched_at": "2021-05-23T19:00:45",
+    "fetched_at": "2021-10-17T22:38:53",
     "data_version": 2,
     "result": "success",
     "avatar_url": "https://avatars.githubusercontent.com/u/15517661?v=4",
@@ -10,7 +10,7 @@
     "emojis": {},
     "html_url": "https://github.com/thombashi/DataProperty",
     "name": "DataProperty",
-    "updated_at": "2021-03-20T16:16:43",
+    "updated_at": "2021-10-17T04:06:52",
     "forks_count": 5,
     "has_issues": true,
     "has_wiki": false,
@@ -18,50 +18,27 @@
     "languages": {
         "labels": [
             "Python",
-            "Makefile",
-            "Shell"
+            "Makefile"
         ],
         "data": [
-            170290,
-            780,
-            265
+            179625,
+            995
         ]
     },
-    "languages_count": 3,
+    "languages_count": 2,
     "owner_name": "Tsuyoshi Hombashi",
     "owner_html_url": "https://github.com/thombashi",
     "open_issues_count": 1,
     "organization": {},
     "repo_homepage": "https://pypi.python.org/pypi/DataProperty",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "topics": [
-        "python",
         "data",
-        "python-library",
-        "property"
+        "property",
+        "python",
+        "python-library"
     ],
     "participation": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        7,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
         0,
         0,
         0,
@@ -92,10 +69,31 @@
         0,
         0,
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        27,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        11,
+        8,
+        0,
         0
     ],
-    "commits_last_year": 25,
-    "latest_tag": "v0.50.1",
+    "commits_last_year": 69,
+    "latest_tag": "v0.54.2",
     "branches_count": 1,
     "pulls_count": 0,
     "subscribers_count": 1,
@@ -107,7 +105,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "contributors_count": 3,
-    "tags_count": 128,
+    "tags_count": 134,
     "open_issues": {
         "labels": [
             "documentation"
